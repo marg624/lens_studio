@@ -1,0 +1,3674 @@
+{
+    "lens_id": "",
+    "document_id": "E02YECmmYbuSnQy_4iMP",
+    "original_document_id": "SN7lK7yAdaqpZDdyPraM",
+    "version": "29",
+    "lastChanged": "1643422861695",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Hair Coloring"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Materials",
+                        "Gaussian Blur"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Materials",
+                        "detector_1"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Materials",
+                        "detector_2"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Materials",
+                        "hair_color"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Scripts"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Blur Render Target"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Blur Render Target 2"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Detector 1 Render Target"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Detector 1 Render Target 2"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Detector 2 Render Target"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Detector 2 Render Target 2"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Hair Render Target"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Hair Render Target 2"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Screen Texture"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Screen Texture 2"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "SoundboardKey"
+                    ],
+                    [
+                        "Sounds"
+                    ],
+                    [
+                        "Sounds",
+                        "blue"
+                    ],
+                    [
+                        "Sounds",
+                        "green"
+                    ],
+                    [
+                        "Sounds",
+                        "orange"
+                    ],
+                    [
+                        "Sounds",
+                        "purple"
+                    ],
+                    [
+                        "Sounds",
+                        "red"
+                    ],
+                    [
+                        "Sounds",
+                        "yellow"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Live Target"
+                    ],
+                    [
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenScreenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenValue"
+                    ],
+                    [
+                        "Visuals"
+                    ],
+                    [
+                        "Visuals",
+                        "JJ_blue"
+                    ],
+                    [
+                        "Visuals",
+                        "JJ_green"
+                    ],
+                    [
+                        "Visuals",
+                        "JJ_orange"
+                    ],
+                    [
+                        "Visuals",
+                        "JJ_purple"
+                    ],
+                    [
+                        "Visuals",
+                        "JJ_red"
+                    ],
+                    [
+                        "Visuals",
+                        "JJ_yellow"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517262137359444:17993",
+                    "1517535808380717:2585",
+                    "1517535821204100:3028",
+                    "1517535842721424:3640",
+                    "1517535842750107:3721",
+                    "1643336104555791:1436410",
+                    "1643401248712451:4046549"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Soundboard",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "false",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Patio.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 5.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Patio.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1593637498290563:141523"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1517612456799019:2796",
+                    "name": "\/Resources\/Resource56.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "98",
+                    "uid": "1518730197423357:6223",
+                    "name": "\/Resources\/Resource98.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "99",
+                    "uid": "1518730197429819:6235",
+                    "name": "\/Resources\/Resource99.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "107",
+                    "uid": "1518730197461945:6331",
+                    "name": "\/Resources\/Resource107.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "109",
+                    "uid": "1518730197475575:6355",
+                    "name": "\/Resources\/Resource109.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "180",
+                    "uid": "1538677161052705:26325",
+                    "name": "\/Resources\/Resource180.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "181",
+                    "uid": "1538677161096881:26338",
+                    "name": "\/Resources\/Resource181.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "182",
+                    "uid": "1553301559743029:43047",
+                    "name": "Files\/File37.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "195",
+                    "uid": "1553301561721461:43266",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1553645689947751:288845",
+                    "name": "Files\/File38.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "197",
+                    "uid": "1553645695946274:296662",
+                    "name": "Files\/File39.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "199",
+                    "uid": "1571880459257081:241972",
+                    "name": "Files\/File48.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "200",
+                    "uid": "1623365975120287:4740862",
+                    "name": "Files\/File77",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1623366079739416:4767240",
+                    "name": "Files\/File81",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "203",
+                    "uid": "1623366113199245:4777507",
+                    "name": "Files\/File83",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "204",
+                    "uid": "1623366132768718:4786096",
+                    "name": "Files\/File85",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "205",
+                    "uid": "1623366153454898:4794798",
+                    "name": "Files\/File87",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "206",
+                    "uid": "1623366161070427:4798330",
+                    "name": "Files\/File89",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "207",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "209",
+                    "uid": "1643336007276770:1411169",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "210",
+                    "uid": "1643336007277580:1411179",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "211",
+                    "uid": "1643336007278015:1411193",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "215",
+                    "uid": "1643336007447845:1411493",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "216",
+                    "uid": "1643336008086894:1411649",
+                    "name": "Files\/File99",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "217",
+                    "uid": "1643336008137456:1411739",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "218",
+                    "uid": "1643336008689136:1411868",
+                    "name": "Files\/File101.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "219",
+                    "uid": "1643336008690920:1411875",
+                    "name": "Files\/File102.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "220",
+                    "uid": "1643336674545497:1583953",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "221",
+                    "uid": "1643336674546470:1583963",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "222",
+                    "uid": "1643336674546838:1583973",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "223",
+                    "uid": "1643336674547203:1583983",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "224",
+                    "uid": "1643336674547830:1583994",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "231",
+                    "uid": "1643401248243383:4046420",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1643401248250865:4046430",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1643401248253286:4046440",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1643401248255621:4046450",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "235",
+                    "uid": "1643401248258865:4046461",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "236",
+                    "uid": "1643401248264842:4046471",
+                    "name": "Files\/File129",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "237",
+                    "uid": "1643401248351897:4046488",
+                    "name": "Files\/File131",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "238",
+                    "uid": "1643401248437722:4046505",
+                    "name": "Files\/File133",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "239",
+                    "uid": "1643401248508358:4046522",
+                    "name": "Files\/File135",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "240",
+                    "uid": "1643421328749477:3628461",
+                    "name": "Files\/File139.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "241",
+                    "uid": "1643421329082226:3628478",
+                    "name": "Files\/File142.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "242",
+                    "uid": "1643421329334324:3628546",
+                    "name": "Files\/File146.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "243",
+                    "uid": "1643421329657995:3631393",
+                    "name": "Files\/File150.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "244",
+                    "uid": "1643421329928530:3634253",
+                    "name": "Files\/File154.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "245",
+                    "uid": "1643421330232712:3636136",
+                    "name": "Files\/File158.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "253",
+                    "uid": "1643422655864780:3836093",
+                    "name": "Files\/File169.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "254",
+                    "uid": "1643422655902764:3836106",
+                    "name": "Files\/File170.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "255",
+                    "uid": "1643422655939219:3836453",
+                    "name": "Files\/File171.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "256",
+                    "uid": "1643422655972033:3839014",
+                    "name": "Files\/File172.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "257",
+                    "uid": "1643422656017770:3839054",
+                    "name": "Files\/File173.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "258",
+                    "uid": "1643422656040239:3839067",
+                    "name": "Files\/File174.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1553301561722970:43288",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301562138454:43623",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301562311593:43958",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301562469682:44293",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "true",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301562568566:44628",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "true",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301562751076:44963",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "true",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301562901761:45298",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301672820533:58486",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301672922821:58804",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301673021301:59122",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301673129193:59440",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301673227909:59758",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301673323097:60076",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553301673422559:60394",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1643339333005778:2154320",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1643339333017735:2154479",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517261554193229:949",
+                "1": "1518730197413801:6039",
+                "2": "1553301561721726:43277",
+                "3": "1553301561722487:43284",
+                "4": "1553301562138065:43619",
+                "5": "1553301562311253:43954",
+                "6": "1553301562469265:44289",
+                "7": "1553301562567999:44624",
+                "8": "1553301562750512:44959",
+                "9": "1553301672819654:58475",
+                "10": "1553301672820169:58482",
+                "11": "1553301672922243:58800",
+                "12": "1553301673020808:59118",
+                "13": "1553301673128688:59436",
+                "14": "1553301673227378:59754",
+                "15": "1553301673322393:60072",
+                "16": "1643336388139309:1491511",
+                "17": "1643339333004769:2154316",
+                "18": "1643339333005488:2154318",
+                "19": "1643401248712451:4046549",
+                "20": "1643401248719666:4046571",
+                "21": "1643401248744543:4046643",
+                "22": "1643401248759779:4046709",
+                "23": "1643401248762675:4046713",
+                "24": "1643401248792979:4046781",
+                "25": "1643401248794686:4046783"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "6",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Layer 1",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "Blur",
+                    "layerMask": "1024",
+                    "colorCode": "1"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "Detector1",
+                    "layerMask": "4",
+                    "colorCode": "2"
+                },
+                {
+                    "layerId": "5",
+                    "layerName": "Hair",
+                    "layerMask": "8",
+                    "colorCode": "3"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.pvr"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.js"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.js"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.js"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.js"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.js"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.js"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.lsmat"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.lsmat"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.lsmat"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.lsmat"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.lsmat"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.lsmat"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.lsmat"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.js"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.js"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.js"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.lsmat"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.lsmat"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.lsmat"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.lsmat"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.lsmat"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.js"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.png"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.lsmat"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.lsmat"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.lsmat"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.lsmat"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.lsmat"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.lsmat"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.lsmat"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.js"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.js"
+                },
+                {
+                    "k": "127",
+                    "v": "Files\/File127.png"
+                },
+                {
+                    "k": "128",
+                    "v": "Files\/File128.pvr"
+                },
+                {
+                    "k": "129",
+                    "v": "Files\/File129"
+                },
+                {
+                    "k": "130",
+                    "v": "Files\/File130.lsmat"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131"
+                },
+                {
+                    "k": "132",
+                    "v": "Files\/File132.lsmat"
+                },
+                {
+                    "k": "133",
+                    "v": "Files\/File133"
+                },
+                {
+                    "k": "134",
+                    "v": "Files\/File134.lsmat"
+                },
+                {
+                    "k": "135",
+                    "v": "Files\/File135"
+                },
+                {
+                    "k": "136",
+                    "v": "Files\/File136.lsmat"
+                },
+                {
+                    "k": "139",
+                    "v": "Files\/File139.pvr"
+                },
+                {
+                    "k": "140",
+                    "v": "Files\/File140.png"
+                },
+                {
+                    "k": "141",
+                    "v": "Files\/File141.png"
+                },
+                {
+                    "k": "142",
+                    "v": "Files\/File142.pvr"
+                },
+                {
+                    "k": "143",
+                    "v": "Files\/File143.png"
+                },
+                {
+                    "k": "144",
+                    "v": "Files\/File144.png"
+                },
+                {
+                    "k": "145",
+                    "v": "Files\/File145.pvr"
+                },
+                {
+                    "k": "146",
+                    "v": "Files\/File146.pvr"
+                },
+                {
+                    "k": "147",
+                    "v": "Files\/File147.png"
+                },
+                {
+                    "k": "148",
+                    "v": "Files\/File148.png"
+                },
+                {
+                    "k": "149",
+                    "v": "Files\/File149.pvr"
+                },
+                {
+                    "k": "150",
+                    "v": "Files\/File150.pvr"
+                },
+                {
+                    "k": "151",
+                    "v": "Files\/File151.png"
+                },
+                {
+                    "k": "152",
+                    "v": "Files\/File152.png"
+                },
+                {
+                    "k": "153",
+                    "v": "Files\/File153.pvr"
+                },
+                {
+                    "k": "154",
+                    "v": "Files\/File154.pvr"
+                },
+                {
+                    "k": "155",
+                    "v": "Files\/File155.png"
+                },
+                {
+                    "k": "156",
+                    "v": "Files\/File156.png"
+                },
+                {
+                    "k": "157",
+                    "v": "Files\/File157.pvr"
+                },
+                {
+                    "k": "158",
+                    "v": "Files\/File158.pvr"
+                },
+                {
+                    "k": "159",
+                    "v": "Files\/File159.png"
+                },
+                {
+                    "k": "160",
+                    "v": "Files\/File160.png"
+                },
+                {
+                    "k": "161",
+                    "v": "Files\/File161.pvr"
+                },
+                {
+                    "k": "162",
+                    "v": "Files\/File162.pvr"
+                },
+                {
+                    "k": "169",
+                    "v": "Files\/File169.mp3"
+                },
+                {
+                    "k": "170",
+                    "v": "Files\/File170.mp3"
+                },
+                {
+                    "k": "171",
+                    "v": "Files\/File171.mp3"
+                },
+                {
+                    "k": "172",
+                    "v": "Files\/File172.mp3"
+                },
+                {
+                    "k": "173",
+                    "v": "Files\/File173.mp3"
+                },
+                {
+                    "k": "174",
+                    "v": "Files\/File174.mp3"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Textures\/button.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Tween"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Tween\/TweenTypes"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Tween\/TweenTypes\/TweenTransform.js"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Tween\/TweenTypes\/TweenColor.js"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Tween\/TweenTypes\/TweenAlpha.js"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Tween\/TweenTypes\/TweenChain.js"
+                    },
+                    {
+                        "k": "20",
+                        "v": "Tween\/TweenTypes\/TweenValue.js"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Tween\/Tween.js"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Sounds"
+                    },
+                    {
+                        "k": "30",
+                        "v": "Visuals"
+                    },
+                    {
+                        "k": "37",
+                        "v": "Scripts\/SoundboardKey.js"
+                    },
+                    {
+                        "k": "63",
+                        "v": "Tween\/TweenManager.js"
+                    },
+                    {
+                        "k": "64",
+                        "v": "Tween\/TweenTypes\/TweenScreenTransform.js"
+                    },
+                    {
+                        "k": "623",
+                        "v": "Tween\/TweenTypes\/Legacy"
+                    },
+                    {
+                        "k": "624",
+                        "v": "Tween\/TweenTypes\/Legacy\/TweenBillboard [DEPRECATED].js"
+                    },
+                    {
+                        "k": "26569",
+                        "v": "Materials\/button_A.lsmat"
+                    },
+                    {
+                        "k": "26571",
+                        "v": "Materials\/button_B.lsmat"
+                    },
+                    {
+                        "k": "26572",
+                        "v": "Materials\/button_C.lsmat"
+                    },
+                    {
+                        "k": "26573",
+                        "v": "Materials\/button_D.lsmat"
+                    },
+                    {
+                        "k": "26574",
+                        "v": "Materials\/button_E.lsmat"
+                    },
+                    {
+                        "k": "26575",
+                        "v": "Materials\/button_F.lsmat"
+                    },
+                    {
+                        "k": "27544",
+                        "v": "Hair Coloring"
+                    },
+                    {
+                        "k": "27545",
+                        "v": "Hair Coloring\/Textures"
+                    },
+                    {
+                        "k": "27546",
+                        "v": "Hair Coloring\/Materials"
+                    },
+                    {
+                        "k": "27551",
+                        "v": "Hair Coloring\/Materials\/image.lsmat"
+                    },
+                    {
+                        "k": "27552",
+                        "v": "Hair Coloring\/Scripts"
+                    },
+                    {
+                        "k": "27553",
+                        "v": "Hair Coloring\/Scripts\/HairColorProvider.js"
+                    },
+                    {
+                        "k": "27554",
+                        "v": "Hair Coloring\/Scripts\/HairColorController.js"
+                    },
+                    {
+                        "k": "27561",
+                        "v": "Hair Coloring\/Materials\/hair_color.lsmat"
+                    },
+                    {
+                        "k": "27562",
+                        "v": "Hair Coloring\/Materials\/detector_1.lsmat"
+                    },
+                    {
+                        "k": "27563",
+                        "v": "Hair Coloring\/Materials\/detector_2.lsmat"
+                    },
+                    {
+                        "k": "27564",
+                        "v": "Hair Coloring\/Materials\/Gaussian Blur.lsmat"
+                    },
+                    {
+                        "k": "27567",
+                        "v": "Visuals\/JJ_green.png"
+                    },
+                    {
+                        "k": "27568",
+                        "v": "Visuals\/JJ_red.png"
+                    },
+                    {
+                        "k": "27569",
+                        "v": "Visuals\/JJ_blue.png"
+                    },
+                    {
+                        "k": "27570",
+                        "v": "Visuals\/JJ_yellow.png"
+                    },
+                    {
+                        "k": "27571",
+                        "v": "Visuals\/JJ_purple.png"
+                    },
+                    {
+                        "k": "27572",
+                        "v": "Visuals\/JJ_orange.png"
+                    },
+                    {
+                        "k": "27579",
+                        "v": "Sounds\/blue.mp3"
+                    },
+                    {
+                        "k": "27580",
+                        "v": "Sounds\/green.mp3"
+                    },
+                    {
+                        "k": "27581",
+                        "v": "Sounds\/orange.mp3"
+                    },
+                    {
+                        "k": "27582",
+                        "v": "Sounds\/purple.mp3"
+                    },
+                    {
+                        "k": "27583",
+                        "v": "Sounds\/red.mp3"
+                    },
+                    {
+                        "k": "27584",
+                        "v": "Sounds\/yellow.mp3"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "d1bedce83ecacc42211c4dc3a775fd98"
+                    },
+                    {
+                        "k": "4",
+                        "v": "08149cd3f2ed6e74f9473aaf1b5e3c5a"
+                    },
+                    {
+                        "k": "5",
+                        "v": "a176b48f03c5ce6f3bee96c6b833cceb"
+                    },
+                    {
+                        "k": "6",
+                        "v": "ede2eba2f06c93343079a30956d9b1de"
+                    },
+                    {
+                        "k": "7",
+                        "v": "42053ecc7fe5d00ecaeda631968b485b"
+                    },
+                    {
+                        "k": "8",
+                        "v": "15e58b8beab019875742f43ee005c061"
+                    },
+                    {
+                        "k": "9",
+                        "v": "9e93fe29b183e4d2a8dd3fa3bb9296a1"
+                    },
+                    {
+                        "k": "10",
+                        "v": "3c2b1ae484c98011e2a3bc9b84088057"
+                    },
+                    {
+                        "k": "12",
+                        "v": "5f3e2d869750a2eb24f08bc39e591589"
+                    },
+                    {
+                        "k": "15",
+                        "v": "6ebfeb2c663fa202006e693171b85b2b"
+                    },
+                    {
+                        "k": "16",
+                        "v": "e9e2ba6730d762b98ec75bee60c2280c"
+                    },
+                    {
+                        "k": "17",
+                        "v": "727c7e4c704f936aea788aa6fceeb329"
+                    },
+                    {
+                        "k": "18",
+                        "v": "99bfeaf53ffd6ca8ca2e3019e0b28ab0"
+                    },
+                    {
+                        "k": "19",
+                        "v": "cc0c83e2ea93b997db621a08e4b6f785"
+                    },
+                    {
+                        "k": "20",
+                        "v": "5442d81c364e19a9bb1bf0b0b452cc05"
+                    },
+                    {
+                        "k": "21",
+                        "v": "c8f7c33fbce8a4b5604131cd4f7dde29"
+                    },
+                    {
+                        "k": "22",
+                        "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
+                    },
+                    {
+                        "k": "24",
+                        "v": "81d53d69c9df7302901d6c7b40ed548d"
+                    },
+                    {
+                        "k": "25",
+                        "v": "e925a187d9b9d8680007edf8243870a1"
+                    },
+                    {
+                        "k": "26",
+                        "v": "f39fd60ab480e9a6ebb3bf763f1ce387"
+                    },
+                    {
+                        "k": "27",
+                        "v": "c038de535a6b622fcf35d51041bbb3e7"
+                    },
+                    {
+                        "k": "28",
+                        "v": "1b4d9d131426cf5e1aa69fb2ae12a2f1"
+                    },
+                    {
+                        "k": "29",
+                        "v": "e1274ded79c9001e8291fcb8c09ada73"
+                    },
+                    {
+                        "k": "31",
+                        "v": "2334682b1ef0dd9aca858d058b47b792"
+                    },
+                    {
+                        "k": "32",
+                        "v": "8922470ff26f39d7b22c0d7d5df571e3"
+                    },
+                    {
+                        "k": "33",
+                        "v": "ee211ff04e56c55ec159dec73b64792d"
+                    },
+                    {
+                        "k": "34",
+                        "v": "9c9ed0a1086a7c3b3d73a6af8291a4e7"
+                    },
+                    {
+                        "k": "35",
+                        "v": "7e053e85a8e467d8aeec4fd950c98c50"
+                    },
+                    {
+                        "k": "36",
+                        "v": "d9eadc9189a40b5dd7a20b080b43679b"
+                    },
+                    {
+                        "k": "37",
+                        "v": "16a2a75669086e25a918bc496d4e51bc"
+                    },
+                    {
+                        "k": "38",
+                        "v": "45d195fc362af2598273c2e831d4e059"
+                    },
+                    {
+                        "k": "39",
+                        "v": "b93522a88bc937fd705b65d38d73b1cd"
+                    },
+                    {
+                        "k": "40",
+                        "v": "f8cd4bb6135b464db80449346616fb1b"
+                    },
+                    {
+                        "k": "41",
+                        "v": "1d65021042863009759271697f1c4e16"
+                    },
+                    {
+                        "k": "42",
+                        "v": "1cba17bbd98a96fe67e3c262f820c64c"
+                    },
+                    {
+                        "k": "43",
+                        "v": "f07e8a43f6e8913a9994c5c358ee5d6e"
+                    },
+                    {
+                        "k": "44",
+                        "v": "81d53d69c9df7302901d6c7b40ed548d"
+                    },
+                    {
+                        "k": "45",
+                        "v": "e925a187d9b9d8680007edf8243870a1"
+                    },
+                    {
+                        "k": "46",
+                        "v": "f39fd60ab480e9a6ebb3bf763f1ce387"
+                    },
+                    {
+                        "k": "47",
+                        "v": "c038de535a6b622fcf35d51041bbb3e7"
+                    },
+                    {
+                        "k": "48",
+                        "v": "1b4d9d131426cf5e1aa69fb2ae12a2f1"
+                    },
+                    {
+                        "k": "49",
+                        "v": "e1274ded79c9001e8291fcb8c09ada73"
+                    },
+                    {
+                        "k": "63",
+                        "v": "b2de387ce88b2fa5aef115c4f0c2608c"
+                    },
+                    {
+                        "k": "64",
+                        "v": "b8922412da264bc96ed7ce55a5f5ad55"
+                    },
+                    {
+                        "k": "65",
+                        "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
+                    },
+                    {
+                        "k": "623",
+                        "v": "1b3c33a31e2012e2fb122c85002e1df4"
+                    },
+                    {
+                        "k": "624",
+                        "v": "758e79bc3b690f8d485a6fe41a406c73"
+                    },
+                    {
+                        "k": "26569",
+                        "v": "950d9d438974f2bef831bd212b96d4d3"
+                    },
+                    {
+                        "k": "26570",
+                        "v": "0290a6f202cab0700015efd9c02c3d5b"
+                    },
+                    {
+                        "k": "26571",
+                        "v": "8ea866698f04b3bde743e9f8fa085b14"
+                    },
+                    {
+                        "k": "26572",
+                        "v": "da556548821d01d02337e2e41a1e5f09"
+                    },
+                    {
+                        "k": "26573",
+                        "v": "54cad2666fe8402f24b1613c3a586b79"
+                    },
+                    {
+                        "k": "26574",
+                        "v": "4f87446638357e122fa8dbbb50f10f1d"
+                    },
+                    {
+                        "k": "26575",
+                        "v": "a06d5b87f5791298fae29a6f1eb9222d"
+                    },
+                    {
+                        "k": "27544",
+                        "v": "8fceef985ffb8dfac190837663eb2f0a"
+                    },
+                    {
+                        "k": "27545",
+                        "v": "2ed51057f3fcf0daf2f45089eb67c72e"
+                    },
+                    {
+                        "k": "27546",
+                        "v": "761e9ce5e8bc7bf8ad761b6b65679dce"
+                    },
+                    {
+                        "k": "27547",
+                        "v": "50b2175988476d758bb7672e55e0579d"
+                    },
+                    {
+                        "k": "27548",
+                        "v": "4fd5fb5e61ae48b8400b31269d1de2dc"
+                    },
+                    {
+                        "k": "27549",
+                        "v": "5dd153ed314ceba2d8d65f68562a1790"
+                    },
+                    {
+                        "k": "27550",
+                        "v": "6bc1bd23c1ee923379ef18792559b152"
+                    },
+                    {
+                        "k": "27551",
+                        "v": "2e40f06a3e1fba8d85983ade04bcfd5c"
+                    },
+                    {
+                        "k": "27552",
+                        "v": "a48fd63fff70bd0945a22b0bc2c44b5f"
+                    },
+                    {
+                        "k": "27553",
+                        "v": "dbdfbf84fa0eaf32ddec1cb8420d1c4e"
+                    },
+                    {
+                        "k": "27554",
+                        "v": "8699a82ccf0e87a2545c3654b3f86914"
+                    },
+                    {
+                        "k": "27555",
+                        "v": "240e3ff2f89ef3dac307599b659d7f72"
+                    },
+                    {
+                        "k": "27556",
+                        "v": "27053b2120bd7d813212a4aa426095be"
+                    },
+                    {
+                        "k": "27557",
+                        "v": "668a9a3ac0976a012c52e489d3d3fb3c"
+                    },
+                    {
+                        "k": "27558",
+                        "v": "59f666bf3f578495c0160a8b77197940"
+                    },
+                    {
+                        "k": "27560",
+                        "v": "14018a8b8885f9d5522cd6c52e7acb4c"
+                    },
+                    {
+                        "k": "27561",
+                        "v": "22f7f9bba2c356f98c5cfc72040fabd0"
+                    },
+                    {
+                        "k": "27562",
+                        "v": "da014172231c55a2e28dd8db1a7c9a74"
+                    },
+                    {
+                        "k": "27563",
+                        "v": "fd2149d44497de20c0cd74c2bcbeb1b1"
+                    },
+                    {
+                        "k": "27564",
+                        "v": "65f812908af06fa2f0fb56b897630339"
+                    },
+                    {
+                        "k": "27567",
+                        "v": "5822911d6bfcf664b6a7267a22714807"
+                    },
+                    {
+                        "k": "27568",
+                        "v": "77bebe649e568c881a19191ab6609dc8"
+                    },
+                    {
+                        "k": "27569",
+                        "v": "f984d879b988bd1135a99f1349e62042"
+                    },
+                    {
+                        "k": "27570",
+                        "v": "22d92c1bbf9c3d5c8fa240f1216ea430"
+                    },
+                    {
+                        "k": "27571",
+                        "v": "cc93c09b0bf5921d664093b78b6387c3"
+                    },
+                    {
+                        "k": "27572",
+                        "v": "f79a455d74af33df8bb47436a5597e61"
+                    },
+                    {
+                        "k": "27573",
+                        "v": "3013f3ed3b10a2c7d5995061e55f3001"
+                    },
+                    {
+                        "k": "27574",
+                        "v": "91023be3fe06fdc457d2c49d9990ae81"
+                    },
+                    {
+                        "k": "27575",
+                        "v": "b8c1e35e8e605cb2bb4ac45e1dc91851"
+                    },
+                    {
+                        "k": "27576",
+                        "v": "1b05f4602cb3c4476d2fbaf4239b2820"
+                    },
+                    {
+                        "k": "27577",
+                        "v": "34012845feca564d30bd74fe5983529f"
+                    },
+                    {
+                        "k": "27578",
+                        "v": "0ef5605f77695a219cb189af829b4742"
+                    },
+                    {
+                        "k": "27579",
+                        "v": "09fe8724a8746f9c6ad37490552775a4"
+                    },
+                    {
+                        "k": "27580",
+                        "v": "b222ba271500a34206ec104776bfcf91"
+                    },
+                    {
+                        "k": "27581",
+                        "v": "cac6c0472b160fcfcf91e55def4bb2c2"
+                    },
+                    {
+                        "k": "27582",
+                        "v": "e69e91f30ae49564156017aa126f95be"
+                    },
+                    {
+                        "k": "27583",
+                        "v": "b7e2e54511fbffe461266a1c0ff6f282"
+                    },
+                    {
+                        "k": "27584",
+                        "v": "80e709741b979b4dd4fcf358b6aa8105"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-01-28T18:19:16",
+                        "name": "Public",
+                        "hash": "897e0eb1092a16c77b68d4d885ee5c0b",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-01-28T12:56:07",
+                                "name": "Hair Coloring",
+                                "hash": "0de90f7fa094653cb5f38c0778c24486",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-01-28T12:56:07",
+                                        "name": "Textures",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-27T12:43:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-01-28T18:18:50",
+                                        "name": "Materials",
+                                        "hash": "ff9897f006ce2e305988edfeaf204f3b",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-28T12:21:20",
+                                                "name": "hair_color.lsmat",
+                                                "hash": "22f7f9bba2c356f98c5cfc72040fabd0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-28T12:21:29",
+                                                "name": "detector_2.lsmat",
+                                                "hash": "fd2149d44497de20c0cd74c2bcbeb1b1",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-28T12:21:24",
+                                                "name": "detector_1.lsmat",
+                                                "hash": "da014172231c55a2e28dd8db1a7c9a74",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-28T18:18:50",
+                                                "name": "Gaussian Blur.lsmat",
+                                                "hash": "8e462ba314bb1cfaf8a4afbb011e9b3b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-28T18:18:50",
+                                                "name": "image.lsmat",
+                                                "hash": "07290263c341006aa27c2aac575c4c6b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-27T12:43:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-01-28T17:08:37",
+                                        "name": "Scripts",
+                                        "hash": "34a3d470702d3caa37724e65782a074f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-27T12:43:27",
+                                                "name": "HairColorProvider.js",
+                                                "hash": "dbdfbf84fa0eaf32ddec1cb8420d1c4e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-28T17:08:37",
+                                                "name": "HairColorController.js",
+                                                "hash": "8699a82ccf0e87a2545c3654b3f86914",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-27T12:43:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-27T12:43:27",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-01-28T12:56:07",
+                                "name": "Textures",
+                                "hash": "4160690bcaa2af6a417de8f8760c5f2b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T12:10:58",
+                                        "name": "button.png",
+                                        "hash": "d1bedce83ecacc42211c4dc3a775fd98",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-27T12:45:53",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-01-28T17:02:08",
+                                "name": "Tween",
+                                "hash": "e1d1e7ddd5ac7fa448a07c4173bc0a1d",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-01-28T16:57:30",
+                                        "name": "TweenTypes",
+                                        "hash": "089ec76c93af828f95f1891d08e66bea",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-27T12:45:53",
+                                                "name": "TweenChain.js",
+                                                "hash": "cc0c83e2ea93b997db621a08e4b6f785",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-27T12:45:53",
+                                                "name": "TweenColor.js",
+                                                "hash": "e9e2ba6730d762b98ec75bee60c2280c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-27T12:45:53",
+                                                "name": "TweenTransform.js",
+                                                "hash": "6ebfeb2c663fa202006e693171b85b2b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-01-28T12:56:07",
+                                                "name": "Legacy",
+                                                "hash": "633ec9f18494495c1cb1cc3afc0dd9c7",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-27T12:45:53",
+                                                        "name": "TweenBillboard [DEPRECATED].js",
+                                                        "hash": "758e79bc3b690f8d485a6fe41a406c73",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-27T12:45:53",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-28T16:57:30",
+                                                "name": "TweenScreenTransform.js",
+                                                "hash": "b8922412da264bc96ed7ce55a5f5ad55",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-27T12:45:53",
+                                                "name": "TweenValue.js",
+                                                "hash": "5442d81c364e19a9bb1bf0b0b452cc05",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-27T12:45:53",
+                                                "name": "TweenAlpha.js",
+                                                "hash": "727c7e4c704f936aea788aa6fceeb329",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-27T12:45:53",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T17:02:08",
+                                        "name": "TweenManager.js",
+                                        "hash": "b2de387ce88b2fa5aef115c4f0c2608c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-27T12:45:53",
+                                        "name": "Tween.js",
+                                        "hash": "c8f7c33fbce8a4b5604131cd4f7dde29",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-27T12:45:53",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-01-28T18:18:50",
+                                "name": "Materials",
+                                "hash": "dd6ef0526306692a43e106588f746dbf",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:18:50",
+                                        "name": "button_F.lsmat",
+                                        "hash": "47bc8a0a86771b2d50a4fec53e6b3115",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:18:50",
+                                        "name": "button_D.lsmat",
+                                        "hash": "bb3e3a2e8d90185728c98e804c889366",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:18:50",
+                                        "name": "button_B.lsmat",
+                                        "hash": "e9243d8267966510718fe575743dcd50",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:18:50",
+                                        "name": "button_E.lsmat",
+                                        "hash": "8df303056bb04423cbc9dcd3e45aef84",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:18:50",
+                                        "name": "button_C.lsmat",
+                                        "hash": "630293cca356018b2d17c7ffc3655dec",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:18:50",
+                                        "name": "button_A.lsmat",
+                                        "hash": "0d7f0cfb7a50a5c813e67160fa4a26ca",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-27T12:45:53",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-01-28T18:18:56",
+                                "name": "Sounds",
+                                "hash": "e42e7368b2e4206170b7c1af2834f81c",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:17:14",
+                                        "name": "red.mp3",
+                                        "hash": "b7e2e54511fbffe461266a1c0ff6f282",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:17:14",
+                                        "name": "purple.mp3",
+                                        "hash": "e69e91f30ae49564156017aa126f95be",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:17:14",
+                                        "name": "green.mp3",
+                                        "hash": "b222ba271500a34206ec104776bfcf91",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:17:14",
+                                        "name": "orange.mp3",
+                                        "hash": "cac6c0472b160fcfcf91e55def4bb2c2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:17:14",
+                                        "name": "blue.mp3",
+                                        "hash": "09fe8724a8746f9c6ad37490552775a4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T18:17:14",
+                                        "name": "yellow.mp3",
+                                        "hash": "80e709741b979b4dd4fcf358b6aa8105",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-27T12:45:53",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-01-28T17:09:40",
+                                "name": "Scripts",
+                                "hash": "642426e00ca7f01f0b1a8f4ceefcaa9b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T17:09:40",
+                                        "name": "SoundboardKey.js",
+                                        "hash": "16a2a75669086e25a918bc496d4e51bc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-27T12:45:53",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-01-28T18:19:03",
+                                "name": "Visuals",
+                                "hash": "992033274f99ced07ab37f927cda4add",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T17:54:56",
+                                        "name": "JJ_green.png",
+                                        "hash": "5822911d6bfcf664b6a7267a22714807",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T17:54:48",
+                                        "name": "JJ_red.png",
+                                        "hash": "77bebe649e568c881a19191ab6609dc8",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T17:54:46",
+                                        "name": "JJ_yellow.png",
+                                        "hash": "22d92c1bbf9c3d5c8fa240f1216ea430",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T17:54:47",
+                                        "name": "JJ_blue.png",
+                                        "hash": "f984d879b988bd1135a99f1349e62042",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T17:54:41",
+                                        "name": "JJ_orange.png",
+                                        "hash": "f79a455d74af33df8bb47436a5597e61",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-28T17:54:44",
+                                        "name": "JJ_purple.png",
+                                        "hash": "cc93c09b0bf5921d664093b78b6387c3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-27T12:45:53",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-01-27T12:45:53",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "button",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "56",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1517612456799019:2796",
+                                "fileId": "3",
+                                "originalId": "63",
+                                "publicId": "2",
+                                "source": "\/Users\/mmiranda\/Documents\/templates\/Learn_Colors\/Public\/Textures\/button.png",
+                                "additional": {
+                                    "originHash": "d1bedce83ecacc42211c4dc3a775fd98"
+                                }
+                            },
+                            {
+                                "name": "Live Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "195",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1553301561721461:43266",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Detector 2 Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "209",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643336007276770:1411169",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Detector 1 Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "210",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643336007277580:1411179",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Portrait Hair Segmentation",
+                                "type": "1",
+                                "subtype": "14",
+                                "resourceId": "211",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643336007278015:1411193",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Texture",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "215",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643336007447845:1411493",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Hair Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "217",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643336008137456:1411739",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "3",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "button_A",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "200",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623365975120287:4740862",
+                                "fileId": "77",
+                                "originalId": "78",
+                                "publicId": "26569",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "button_B",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "202",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623366079739416:4767240",
+                                "fileId": "81",
+                                "originalId": "82",
+                                "publicId": "26571",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "button_C",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "203",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623366113199245:4777507",
+                                "fileId": "83",
+                                "originalId": "84",
+                                "publicId": "26572",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "button_D",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "204",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623366132768718:4786096",
+                                "fileId": "85",
+                                "originalId": "86",
+                                "publicId": "26573",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "button_E",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "205",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623366153454898:4794798",
+                                "fileId": "87",
+                                "originalId": "88",
+                                "publicId": "26574",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "button_F",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "206",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623366161070427:4798330",
+                                "fileId": "89",
+                                "originalId": "90",
+                                "publicId": "26575",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "SoundboardKey",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "182",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1553301559743029:43047",
+                                "fileId": "37",
+                                "originalId": "18446744073709551615",
+                                "publicId": "37",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tween",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "13",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "TweenTypes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "14",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "99",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518730197429819:6235",
+                                        "fileId": "6",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "15",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "107",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518730197461945:6331",
+                                        "fileId": "8",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "16",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "109",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518730197475575:6355",
+                                        "fileId": "9",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "17",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenChain",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "180",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1538677161052705:26325",
+                                        "fileId": "28",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "19",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenValue",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "181",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1538677161096881:26338",
+                                        "fileId": "29",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "20",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenScreenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "197",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1553645695946274:296662",
+                                        "fileId": "39",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "64",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Legacy",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "623",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenBillboard [DEPRECATED]",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "199",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1571880459257081:241972",
+                                                "fileId": "48",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "624",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tween",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "98",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1518730197423357:6223",
+                                "fileId": "5",
+                                "originalId": "18446744073709551615",
+                                "publicId": "21",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenManager",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "196",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1553645689947751:288845",
+                                "fileId": "38",
+                                "originalId": "18446744073709551615",
+                                "publicId": "63",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sounds",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "23",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "blue",
+                                "type": "5",
+                                "subtype": "0",
+                                "resourceId": "253",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643422655864780:3836093",
+                                "fileId": "169",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27579",
+                                "source": "\/Users\/mmiranda\/Downloads\/purple,orange,green\/blue.mp3",
+                                "additional": ""
+                            },
+                            {
+                                "name": "green",
+                                "type": "5",
+                                "subtype": "0",
+                                "resourceId": "254",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643422655902764:3836106",
+                                "fileId": "170",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27580",
+                                "source": "\/Users\/mmiranda\/Downloads\/purple,orange,green\/green.mp3",
+                                "additional": ""
+                            },
+                            {
+                                "name": "orange",
+                                "type": "5",
+                                "subtype": "0",
+                                "resourceId": "255",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643422655939219:3836453",
+                                "fileId": "171",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27581",
+                                "source": "\/Users\/mmiranda\/Downloads\/purple,orange,green\/orange.mp3",
+                                "additional": ""
+                            },
+                            {
+                                "name": "purple",
+                                "type": "5",
+                                "subtype": "0",
+                                "resourceId": "256",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643422655972033:3839014",
+                                "fileId": "172",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27582",
+                                "source": "\/Users\/mmiranda\/Downloads\/purple,orange,green\/purple.mp3",
+                                "additional": ""
+                            },
+                            {
+                                "name": "red",
+                                "type": "5",
+                                "subtype": "0",
+                                "resourceId": "257",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643422656017770:3839054",
+                                "fileId": "173",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27583",
+                                "source": "\/Users\/mmiranda\/Downloads\/purple,orange,green\/red.mp3",
+                                "additional": ""
+                            },
+                            {
+                                "name": "yellow",
+                                "type": "5",
+                                "subtype": "0",
+                                "resourceId": "258",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643422656040239:3839067",
+                                "fileId": "174",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27584",
+                                "source": "\/Users\/mmiranda\/Downloads\/purple,orange,green\/yellow.mp3",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Visuals",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "30",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "JJ_green",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "240",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643421328749477:3628461",
+                                "fileId": "139",
+                                "originalId": "140",
+                                "publicId": "27567",
+                                "source": "\/Users\/mmiranda\/Downloads\/JJ_green.png",
+                                "additional": {
+                                    "originHash": "5822911d6bfcf664b6a7267a22714807"
+                                }
+                            },
+                            {
+                                "name": "JJ_red",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "241",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643421329082226:3628478",
+                                "fileId": "142",
+                                "originalId": "143",
+                                "publicId": "27568",
+                                "source": "\/Users\/mmiranda\/Downloads\/JJ_red.png",
+                                "additional": {
+                                    "originHash": "77bebe649e568c881a19191ab6609dc8"
+                                }
+                            },
+                            {
+                                "name": "JJ_blue",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "242",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643421329334324:3628546",
+                                "fileId": "146",
+                                "originalId": "147",
+                                "publicId": "27569",
+                                "source": "\/Users\/mmiranda\/Downloads\/JJ_blue.png",
+                                "additional": {
+                                    "originHash": "f984d879b988bd1135a99f1349e62042"
+                                }
+                            },
+                            {
+                                "name": "JJ_yellow",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "243",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643421329657995:3631393",
+                                "fileId": "150",
+                                "originalId": "151",
+                                "publicId": "27570",
+                                "source": "\/Users\/mmiranda\/Downloads\/JJ_yellow.png",
+                                "additional": {
+                                    "originHash": "22d92c1bbf9c3d5c8fa240f1216ea430"
+                                }
+                            },
+                            {
+                                "name": "JJ_purple",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "244",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643421329928530:3634253",
+                                "fileId": "154",
+                                "originalId": "155",
+                                "publicId": "27571",
+                                "source": "\/Users\/mmiranda\/Downloads\/JJ_purple.png",
+                                "additional": {
+                                    "originHash": "cc93c09b0bf5921d664093b78b6387c3"
+                                }
+                            },
+                            {
+                                "name": "JJ_orange",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "245",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1643421330232712:3636136",
+                                "fileId": "158",
+                                "originalId": "159",
+                                "publicId": "27572",
+                                "source": "\/Users\/mmiranda\/Downloads\/JJ_orange.png",
+                                "additional": {
+                                    "originHash": "f79a455d74af33df8bb47436a5597e61"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "207",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Hair Coloring",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27544",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27545",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Blur Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "220",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643336674545497:1583953",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Hair Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "221",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643336674546470:1583963",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Detector 2 Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "222",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643336674546838:1583973",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Detector 1 Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "223",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643336674547203:1583983",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Screen Texture",
+                                        "type": "1",
+                                        "subtype": "16",
+                                        "resourceId": "224",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643336674547830:1583994",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Blur Render Target 2",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "231",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643401248243383:4046420",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Hair Render Target 2",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "232",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643401248250865:4046430",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Detector 2 Render Target 2",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "233",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643401248253286:4046440",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Detector 1 Render Target 2",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "234",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643401248255621:4046450",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Screen Texture 2",
+                                        "type": "1",
+                                        "subtype": "16",
+                                        "resourceId": "235",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643401248258865:4046461",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27546",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "image",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "216",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643336008086894:1411649",
+                                        "fileId": "99",
+                                        "originalId": "100",
+                                        "publicId": "27551",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "hair_color",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "236",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643401248264842:4046471",
+                                        "fileId": "129",
+                                        "originalId": "130",
+                                        "publicId": "27561",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "detector_1",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "237",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643401248351897:4046488",
+                                        "fileId": "131",
+                                        "originalId": "132",
+                                        "publicId": "27562",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "detector_2",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "238",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643401248437722:4046505",
+                                        "fileId": "133",
+                                        "originalId": "134",
+                                        "publicId": "27563",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Gaussian Blur",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "239",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643401248508358:4046522",
+                                        "fileId": "135",
+                                        "originalId": "136",
+                                        "publicId": "27564",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27552",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "HairColorProvider",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "218",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643336008689136:1411868",
+                                        "fileId": "101",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27553",
+                                        "source": "\/Users\/mmiranda\/Documents\/templates\/Learn_Colors\/Public\/Hair Coloring\/Scripts\/HairColorProvider.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "HairColorController",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "219",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1643336008690920:1411875",
+                                        "fileId": "102",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27554",
+                                        "source": "\/Users\/mmiranda\/Documents\/templates\/Learn_Colors\/Public\/Hair Coloring\/Scripts\/HairColorController.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1517612456799019:2796",
+                    "v": {
+                        "infos": {
+                            "originalSize": "29070",
+                            "compressedSize": "13281",
+                            "originalRAM": "438048",
+                            "compressedRAM": "55080",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "127",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d1bedce83ecacc42211c4dc3a775fd98",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "128"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1643421328749477:3628461",
+                    "v": {
+                        "infos": {
+                            "originalSize": "36970",
+                            "compressedSize": "11491",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "141",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5822911d6bfcf664b6a7267a22714807",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "145"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1643421329082226:3628478",
+                    "v": {
+                        "infos": {
+                            "originalSize": "37772",
+                            "compressedSize": "11721",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "144",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "77bebe649e568c881a19191ab6609dc8",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "149"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1643421329334324:3628546",
+                    "v": {
+                        "infos": {
+                            "originalSize": "37433",
+                            "compressedSize": "11643",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "148",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f984d879b988bd1135a99f1349e62042",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "153"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1643421329657995:3631393",
+                    "v": {
+                        "infos": {
+                            "originalSize": "36761",
+                            "compressedSize": "11499",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "152",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "22d92c1bbf9c3d5c8fa240f1216ea430",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "157"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1643421329928530:3634253",
+                    "v": {
+                        "infos": {
+                            "originalSize": "38501",
+                            "compressedSize": "11895",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "156",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "cc93c09b0bf5921d664093b78b6387c3",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "161"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1643421330232712:3636136",
+                    "v": {
+                        "infos": {
+                            "originalSize": "38387",
+                            "compressedSize": "11954",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "160",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f79a455d74af33df8bb47436a5597e61",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "162"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Soundboard",
+    "templateUrl": "https:\/\/assets.ctfassets.net\/xyb83mibqg29\/MRO4B1mJfBUTrh2gOOweT\/de79b0aa01588732c17235030e531483\/Soundboard.zip"
+}
