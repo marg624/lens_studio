@@ -1,0 +1,4181 @@
+{
+    "lens_id": "",
+    "document_id": "eWAAi3ZCS804HOtmm3iV",
+    "original_document_id": "_9mVMKB_3kjQmRETroBQ",
+    "version": "29",
+    "lastChanged": "1644956002825",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Fonts"
+                    ],
+                    [
+                        "Fonts",
+                        "Pacifico-Regular"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Mipmaps Enabled Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Mipmaps Enabled Materials",
+                        "diamond_tattoo_material"
+                    ],
+                    [
+                        "Materials",
+                        "Mipmaps Enabled Materials",
+                        "face_mesh_material"
+                    ],
+                    [
+                        "Materials",
+                        "Mipmaps Enabled Materials",
+                        "heart_tattoo_material"
+                    ],
+                    [
+                        "Materials",
+                        "Mipmaps Enabled Materials",
+                        "kitty_left_tattoo_material"
+                    ],
+                    [
+                        "Materials",
+                        "Mipmaps Enabled Materials",
+                        "kitty_right_tattoo_material"
+                    ],
+                    [
+                        "Materials",
+                        "Mipmaps Enabled Materials",
+                        "platonic_face_material"
+                    ],
+                    [
+                        "Materials",
+                        "Mipmaps Enabled Materials",
+                        "platonic_material"
+                    ],
+                    [
+                        "Materials",
+                        "Mipmaps Enabled Materials",
+                        "star_left_tattoo_material"
+                    ],
+                    [
+                        "Materials",
+                        "Mipmaps Enabled Materials",
+                        "star_right_tattoo_material"
+                    ],
+                    [
+                        "Materials",
+                        "Segmentation Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Segmentation Materials",
+                        "portrait_skin_segmentation_material"
+                    ],
+                    [
+                        "Materials",
+                        "material_to_use [COPY_ME]"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Face Mesh"
+                    ],
+                    [
+                        "Meshes",
+                        "platonic"
+                    ],
+                    [
+                        "Meshes",
+                        "platonic",
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "platonic",
+                        "Meshes",
+                        "Platonic"
+                    ],
+                    [
+                        "Meshes",
+                        "platonic",
+                        "platonic"
+                    ],
+                    [
+                        "Portrait Skin Segmentation [EDIT_ME]"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "Behavior"
+                    ],
+                    [
+                        "Scripts",
+                        "EnableAlphaRecursively"
+                    ],
+                    [
+                        "Scripts",
+                        "MakeCameraChildrenVisible"
+                    ],
+                    [
+                        "Scripts",
+                        "MatchEnabledDebug"
+                    ],
+                    [
+                        "Scripts",
+                        "WoundToggle"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Render Targets"
+                    ],
+                    [
+                        "Textures",
+                        "Render Targets",
+                        "face_mesh_render_target"
+                    ],
+                    [
+                        "Textures",
+                        "bandaid"
+                    ],
+                    [
+                        "Textures",
+                        "bruise"
+                    ],
+                    [
+                        "Textures",
+                        "cut"
+                    ],
+                    [
+                        "Textures",
+                        "forehead_bruise"
+                    ],
+                    [
+                        "Textures",
+                        "headwrap"
+                    ],
+                    [
+                        "Textures",
+                        "ice"
+                    ],
+                    [
+                        "Tracking Asset"
+                    ],
+                    [
+                        "Tracking Asset",
+                        "Body Tracking Asset"
+                    ],
+                    [
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "Legacy"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "Legacy",
+                        "TweenBillboard [DEPRECATED]"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenScreenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenValue"
+                    ],
+                    [
+                        "booboo"
+                    ]
+                ],
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1628197067273544:45173",
+                    "1628197067411775:45437",
+                    "1628197067477612:45571",
+                    "1628197067537498:45705",
+                    "1628197067601874:45839",
+                    "1628197067666691:45973",
+                    "1628197067724022:46100",
+                    "1628197067784019:46231",
+                    "1628197067848797:46362",
+                    "1628197067906642:46493",
+                    "1628197067972676:46624",
+                    "1628197068036835:46755",
+                    "1628197068096539:46886",
+                    "1628197880111750:113371",
+                    "1628204856461240:61215",
+                    "1628877395947998:281257",
+                    "1628883395936733:1179888"
+                ],
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "4afa40979fc3297a18d6bd1e1e136d7b",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_find_face"
+            ],
+            "lens": "Boo boo",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 5.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1628878209782102:688144",
+                    "1628880457751555:900059",
+                    "1644607065245204:137034"
+                ],
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1628196835289137:16275"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1628196834875096:15921",
+                    "name": "Files\/File9",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1628196835088425:16015",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1628196835283606:16265",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1628196835289137:16275",
+                    "name": "Files\/File13",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1628196835743975:16325",
+                    "name": "Files\/File18",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1628196836822821:16469",
+                    "name": "Files\/File37",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1628196837050983:16501",
+                    "name": "Files\/File39",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1628196837526521:16565",
+                    "name": "Files\/File43",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1628197058433572:43593",
+                    "name": "Portrait Skin Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1628197927922637:120661",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1628199039813801:250842",
+                    "name": "Files\/File60.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1628204975617706:75653",
+                    "name": "Files\/File81.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1628204975661633:75669",
+                    "name": "Files\/File82.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1628204975684105:75681",
+                    "name": "Files\/File83.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1628204975758619:75697",
+                    "name": "Files\/File84.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1628204975837327:75713",
+                    "name": "Files\/File85.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1628204975966393:75733",
+                    "name": "Files\/File86.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1628204976037184:75745",
+                    "name": "Files\/File87.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1628204976147531:75761",
+                    "name": "Files\/File88.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1628204976238657:75777",
+                    "name": "Files\/File89.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "118",
+                    "uid": "1628288177493742:18198",
+                    "name": "Files\/File183.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "119",
+                    "uid": "1628288177834945:18283",
+                    "name": "platonic",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "120",
+                    "uid": "1628288234818048:27620",
+                    "name": "Files\/File188",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "127",
+                    "uid": "1628545163274648:260959",
+                    "name": "Files\/File208",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "134",
+                    "uid": "1628875757298819:48631",
+                    "name": "Files\/File240",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "135",
+                    "uid": "1628875895036035:79518",
+                    "name": "Files\/File242",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "137",
+                    "uid": "1628876685746509:159657",
+                    "name": "Files\/File245",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "140",
+                    "uid": "1628877488423087:303131",
+                    "name": "Files\/File254.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "141",
+                    "uid": "1628885264171583:30567",
+                    "name": "Files\/File255.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "142",
+                    "uid": "1628885578759780:74796",
+                    "name": "Files\/File256.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "143",
+                    "uid": "1628886742761940:309239",
+                    "name": "Files\/File257.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "144",
+                    "uid": "1629912217312842:12426",
+                    "name": "Files\/File258",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "145",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "146",
+                    "uid": "1644280750324932:34543",
+                    "name": "Files\/File261.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "147",
+                    "uid": "1644280754200888:37669",
+                    "name": "Files\/File264",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "148",
+                    "uid": "1644606699559936:68999",
+                    "name": "Files\/File271.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "149",
+                    "uid": "1644624743777685:941476",
+                    "name": "Files\/File287.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "150",
+                    "uid": "1644624743932408:941505",
+                    "name": "Files\/File290.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "152",
+                    "uid": "1644873155589793:92171",
+                    "name": "Files\/File299.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "274",
+                    "uid": "1644887817748815:1383932",
+                    "name": "Files\/File614.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "275",
+                    "uid": "1644891516011921:2171801",
+                    "name": "Files\/File620.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1628878209718244:688007",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1644607343320967:193185",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1644880957909752:212160",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1644880967957161:220117",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1644881853831399:430004",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1644881886363799:439343",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1644881900813658:443148",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1644881908664103:446633",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1628197067160485:45059",
+                "4": "1628197067166720:45081",
+                "5": "1628197067268934:45163",
+                "6": "1628197067348439:45305",
+                "7": "1628197067348664:45307",
+                "8": "1628197068164979:47024",
+                "9": "1628204979540110:76676",
+                "10": "1628878209717798:688006",
+                "11": "1628880454614558:899784",
+                "12": "1628883395936733:1179888",
+                "13": "1628883410635626:1185113",
+                "14": "1644607065245204:137034",
+                "15": "1644880957891101:211824",
+                "16": "1644880967956336:220115",
+                "17": "1644881620234669:367526",
+                "18": "1644881712183246:391908",
+                "19": "1644881735300631:402228",
+                "20": "1644881737217332:402502",
+                "21": "1644881738867406:402744",
+                "22": "1644883952645214:708130",
+                "23": "1644888197149021:1487435",
+                "24": "1644888197152022:1487437",
+                "25": "1644891521625946:2178522"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Face Mesh Renderer",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.lsmat"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.lsmat"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.lsmat"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.lsmat"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.ttf"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.js"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.js"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.js"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.js"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.js"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.js"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.js"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.js"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.js"
+                },
+                {
+                    "k": "183",
+                    "v": "Files\/File183.mesh"
+                },
+                {
+                    "k": "184",
+                    "v": "Files\/File184.mesh"
+                },
+                {
+                    "k": "185",
+                    "v": "Files\/File185.oprfb"
+                },
+                {
+                    "k": "186",
+                    "v": "Files\/File186.fbx"
+                },
+                {
+                    "k": "187",
+                    "v": "Files\/File187.oprfb"
+                },
+                {
+                    "k": "188",
+                    "v": "Files\/File188"
+                },
+                {
+                    "k": "189",
+                    "v": "Files\/File189.lsmat"
+                },
+                {
+                    "k": "208",
+                    "v": "Files\/File208"
+                },
+                {
+                    "k": "209",
+                    "v": "Files\/File209.lsmat"
+                },
+                {
+                    "k": "240",
+                    "v": "Files\/File240"
+                },
+                {
+                    "k": "241",
+                    "v": "Files\/File241.lsmat"
+                },
+                {
+                    "k": "242",
+                    "v": "Files\/File242"
+                },
+                {
+                    "k": "243",
+                    "v": "Files\/File243.lsmat"
+                },
+                {
+                    "k": "245",
+                    "v": "Files\/File245"
+                },
+                {
+                    "k": "246",
+                    "v": "Files\/File246.lsmat"
+                },
+                {
+                    "k": "254",
+                    "v": "Files\/File254.js"
+                },
+                {
+                    "k": "255",
+                    "v": "Files\/File255.js"
+                },
+                {
+                    "k": "256",
+                    "v": "Files\/File256.js"
+                },
+                {
+                    "k": "257",
+                    "v": "Files\/File257.js"
+                },
+                {
+                    "k": "258",
+                    "v": "Files\/File258"
+                },
+                {
+                    "k": "259",
+                    "v": "Files\/File259.lsmat"
+                },
+                {
+                    "k": "260",
+                    "v": "Files\/File260.mesh"
+                },
+                {
+                    "k": "261",
+                    "v": "Files\/File261.pvr"
+                },
+                {
+                    "k": "262",
+                    "v": "Files\/File262.png"
+                },
+                {
+                    "k": "264",
+                    "v": "Files\/File264"
+                },
+                {
+                    "k": "265",
+                    "v": "Files\/File265.gif"
+                },
+                {
+                    "k": "266",
+                    "v": "Files\/File266"
+                },
+                {
+                    "k": "267",
+                    "v": "Files\/File267"
+                },
+                {
+                    "k": "271",
+                    "v": "Files\/File271.pvr"
+                },
+                {
+                    "k": "272",
+                    "v": "Files\/File272.png"
+                },
+                {
+                    "k": "281",
+                    "v": "Files\/File281.png"
+                },
+                {
+                    "k": "282",
+                    "v": "Files\/File282.pvr"
+                },
+                {
+                    "k": "285",
+                    "v": "Files\/File285.png"
+                },
+                {
+                    "k": "286",
+                    "v": "Files\/File286.pvr"
+                },
+                {
+                    "k": "287",
+                    "v": "Files\/File287.pvr"
+                },
+                {
+                    "k": "288",
+                    "v": "Files\/File288.png"
+                },
+                {
+                    "k": "289",
+                    "v": "Files\/File289.png"
+                },
+                {
+                    "k": "290",
+                    "v": "Files\/File290.pvr"
+                },
+                {
+                    "k": "291",
+                    "v": "Files\/File291.png"
+                },
+                {
+                    "k": "298",
+                    "v": "Files\/File298.pvr"
+                },
+                {
+                    "k": "299",
+                    "v": "Files\/File299.js"
+                },
+                {
+                    "k": "304",
+                    "v": "Files\/File304.png"
+                },
+                {
+                    "k": "305",
+                    "v": "Files\/File305.pvr"
+                },
+                {
+                    "k": "614",
+                    "v": "Files\/File614.pvr"
+                },
+                {
+                    "k": "615",
+                    "v": "Files\/File615.png"
+                },
+                {
+                    "k": "618",
+                    "v": "Files\/File618.png"
+                },
+                {
+                    "k": "619",
+                    "v": "Files\/File619.pvr"
+                },
+                {
+                    "k": "620",
+                    "v": "Files\/File620.mp3"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Tracking Asset"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "970",
+                        "v": "Materials\/Segmentation Materials"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Materials\/Segmentation Materials\/portrait_skin_segmentation_material.lsmat"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Meshes"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Materials\/Mipmaps Enabled Materials\/face_mesh_material.lsmat"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Materials\/Mipmaps Enabled Materials\/heart_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Materials\/Mipmaps Enabled Materials\/kitty_left_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "986",
+                        "v": "Materials\/Mipmaps Enabled Materials\/diamond_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "988",
+                        "v": "Materials\/Mipmaps Enabled Materials\/kitty_right_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "990",
+                        "v": "Textures\/Render Targets"
+                    },
+                    {
+                        "k": "992",
+                        "v": "Fonts"
+                    },
+                    {
+                        "k": "999",
+                        "v": "Fonts\/Pacifico-Regular.ttf"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "Tween"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "Tween\/TweenTypes"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "Tween\/TweenTypes\/TweenTransform.js"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "Tween\/TweenTypes\/TweenValue.js"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "Tween\/TweenTypes\/TweenColor.js"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "Tween\/TweenTypes\/TweenAlpha.js"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "Tween\/TweenTypes\/Legacy"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "Tween\/TweenTypes\/Legacy\/TweenBillboard [DEPRECATED].js"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "Tween\/TweenTypes\/TweenChain.js"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "Tween\/TweenTypes\/TweenScreenTransform.js"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "Tween\/Tween.js"
+                    },
+                    {
+                        "k": "1017",
+                        "v": "Tween\/TweenManager.js"
+                    },
+                    {
+                        "k": "1096",
+                        "v": "Meshes\/platonic.fbx"
+                    },
+                    {
+                        "k": "1097",
+                        "v": "Materials\/Mipmaps Enabled Materials\/platonic_material.lsmat"
+                    },
+                    {
+                        "k": "1103",
+                        "v": "Materials\/Mipmaps Enabled Materials\/platonic_face_material.lsmat"
+                    },
+                    {
+                        "k": "1109",
+                        "v": "Materials\/Mipmaps Enabled Materials\/star_left_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "1110",
+                        "v": "Materials\/Mipmaps Enabled Materials\/star_right_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "1112",
+                        "v": "Materials\/Mipmaps Enabled Materials"
+                    },
+                    {
+                        "k": "1113",
+                        "v": "Materials\/material_to_use [COPY_ME].lsmat"
+                    },
+                    {
+                        "k": "1117",
+                        "v": "Scripts\/Behavior.js"
+                    },
+                    {
+                        "k": "1118",
+                        "v": "Scripts\/MakeCameraChildrenVisible.js"
+                    },
+                    {
+                        "k": "1119",
+                        "v": "Scripts\/EnableAlphaRecursively.js"
+                    },
+                    {
+                        "k": "1120",
+                        "v": "Scripts\/MatchEnabledDebug.js"
+                    },
+                    {
+                        "k": "1121",
+                        "v": "Materials\/Mipmaps Enabled Materials\/cloud_rainbow_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "1122",
+                        "v": "Textures\/bruise.png"
+                    },
+                    {
+                        "k": "1123",
+                        "v": "Textures\/cut.gif"
+                    },
+                    {
+                        "k": "1124",
+                        "v": "Textures\/forehead_bruise.png"
+                    },
+                    {
+                        "k": "1125",
+                        "v": "Textures\/bandaid.png"
+                    },
+                    {
+                        "k": "1126",
+                        "v": "Textures\/headwrap.png"
+                    },
+                    {
+                        "k": "27543",
+                        "v": "Scripts\/WoundToggle.js"
+                    },
+                    {
+                        "k": "27773",
+                        "v": "Textures\/ice.png"
+                    },
+                    {
+                        "k": "27774",
+                        "v": "booboo.mp3"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "971",
+                        "v": "8c0f4f66669866c1f442d1528fc6dd0c"
+                    },
+                    {
+                        "k": "974",
+                        "v": "8c5083cb5405153a896889a3fdb7e437"
+                    },
+                    {
+                        "k": "976",
+                        "v": "020c4226e19935db4c97ddd00e3a9807"
+                    },
+                    {
+                        "k": "977",
+                        "v": "a7f468e037230564d4a0ad142b857b6a"
+                    },
+                    {
+                        "k": "978",
+                        "v": "37a29152151e5c05b41a96ea124847cb"
+                    },
+                    {
+                        "k": "979",
+                        "v": "1a9a65ab69f47cb51496160f7bbf171e"
+                    },
+                    {
+                        "k": "980",
+                        "v": "f77dfd01987e5e7bd50384146bde91e7"
+                    },
+                    {
+                        "k": "981",
+                        "v": "800d228df742706a08ccdb0afc4a7d81"
+                    },
+                    {
+                        "k": "982",
+                        "v": "9bef1cb6ff12f7916c49fb6cac54fede"
+                    },
+                    {
+                        "k": "983",
+                        "v": "c63bbc37e71488ff1e9274a3e39eac5f"
+                    },
+                    {
+                        "k": "984",
+                        "v": "f93b8ace590f0dc3998de51042da59a3"
+                    },
+                    {
+                        "k": "985",
+                        "v": "85e00d0573b23ef827dcb36b1a3250a0"
+                    },
+                    {
+                        "k": "986",
+                        "v": "18719f874c65146b2b67258f7cdfb83d"
+                    },
+                    {
+                        "k": "987",
+                        "v": "f52183d12c751f24dfb3998952de5ac9"
+                    },
+                    {
+                        "k": "988",
+                        "v": "c25f6f483a30a89aab4f02a04a0bc62c"
+                    },
+                    {
+                        "k": "989",
+                        "v": "eac0a07a2dc8a1ffbfdc1aab90eeb02c"
+                    },
+                    {
+                        "k": "991",
+                        "v": "a382fd348ea359406381ad636d31e6ce"
+                    },
+                    {
+                        "k": "993",
+                        "v": "d5746e3b20453d6cee99ab27a0bdf949"
+                    },
+                    {
+                        "k": "994",
+                        "v": "f6ea751e936ade6edcd03a26b8153b4a"
+                    },
+                    {
+                        "k": "995",
+                        "v": "c57e537a1c25ff6c5beb211ef1c86634"
+                    },
+                    {
+                        "k": "996",
+                        "v": "7676beb2b1f19eec709feed096327d21"
+                    },
+                    {
+                        "k": "997",
+                        "v": "09438cae5178fea614cfd0b16e719824"
+                    },
+                    {
+                        "k": "998",
+                        "v": "411051cb61bcda5517943601e8734cea"
+                    },
+                    {
+                        "k": "999",
+                        "v": "9b94499ccea3bd82b24cb210733c4b5e"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "e93bba36abea2e4559ed437c8eadaeeb"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "a7e4019d26dc27d81a784fbdc5112fe8"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "3d5b092506368fe4db86ea933639f0db"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "309c005b8b1d3fe4aeb8b87bfe14eb30"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "ffaaee4ea7904160d41d693e8a678a31"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "6ebfeb2c663fa202006e693171b85b2b"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "5442d81c364e19a9bb1bf0b0b452cc05"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "e9e2ba6730d762b98ec75bee60c2280c"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "727c7e4c704f936aea788aa6fceeb329"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "758e79bc3b690f8d485a6fe41a406c73"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "cc0c83e2ea93b997db621a08e4b6f785"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "b850f8e90210b09d8dc4028f3cba389b"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "1017",
+                        "v": "2f5b03e0cb4ffddd330286e7a9c8117f"
+                    },
+                    {
+                        "k": "1020",
+                        "v": "3c5250f945ec90db99e7962d2fc45ffd"
+                    },
+                    {
+                        "k": "1021",
+                        "v": "a6f99b1bf073be827aa8bd8d0423a567"
+                    },
+                    {
+                        "k": "1022",
+                        "v": "444e5dddefb049011236c6f097915e4c"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "2e4c9c3ade7dfaba840c138a8b228acf"
+                    },
+                    {
+                        "k": "1024",
+                        "v": "a766ad9db5a33bcbae41ac93fc485ee2"
+                    },
+                    {
+                        "k": "1025",
+                        "v": "4f7330e79e60a0df1213b0f3944c89f4"
+                    },
+                    {
+                        "k": "1026",
+                        "v": "d01d08d72afead8eb7d6c1ce93b86f35"
+                    },
+                    {
+                        "k": "1027",
+                        "v": "33bc132e3167fcec897bf96dd37f2cc1"
+                    },
+                    {
+                        "k": "1028",
+                        "v": "6669c0b081144ff1d06ea2479f6f8896"
+                    },
+                    {
+                        "k": "1031",
+                        "v": "dd1023cb1834443d980f1e0b6ff67f46"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "2376b4a2956f2cf3ca3d88f363b8eb3e"
+                    },
+                    {
+                        "k": "1033",
+                        "v": "9cd7e28515f5d9c531b6d7514189ad26"
+                    },
+                    {
+                        "k": "1035",
+                        "v": "fa8b3aff588bf85dd3aa4f79ed1343a2"
+                    },
+                    {
+                        "k": "1036",
+                        "v": "a1b6cdb0d9b65eb36107a40b26009d89"
+                    },
+                    {
+                        "k": "1037",
+                        "v": "452393a1322caf2465cf0fd80362de52"
+                    },
+                    {
+                        "k": "1038",
+                        "v": "ffe89eacfc799f78575ba489370cc0d3"
+                    },
+                    {
+                        "k": "1039",
+                        "v": "1306a770d4aa1fd926e20ace45454d62"
+                    },
+                    {
+                        "k": "1040",
+                        "v": "e6acdb6c47bafa027c2e89bfbdaf736f"
+                    },
+                    {
+                        "k": "1041",
+                        "v": "416afbe4db331d69bceeced8ac39a46e"
+                    },
+                    {
+                        "k": "1042",
+                        "v": "aa1599fc32f22af7d8bbd848ca07831f"
+                    },
+                    {
+                        "k": "1043",
+                        "v": "b506869d6b371cb20a3d0ac38118fef8"
+                    },
+                    {
+                        "k": "1044",
+                        "v": "c8dbda5c08f99b29be24d4e270348ffe"
+                    },
+                    {
+                        "k": "1045",
+                        "v": "009410da5825ef52b373eb587a58fbc6"
+                    },
+                    {
+                        "k": "1047",
+                        "v": "5563a3bd5055224d5e5667b44ab5ff17"
+                    },
+                    {
+                        "k": "1048",
+                        "v": "f369b08ca5ad535431c9b8c099a9edbe"
+                    },
+                    {
+                        "k": "1049",
+                        "v": "2b047608291e921e646c4cc997af0dbd"
+                    },
+                    {
+                        "k": "1050",
+                        "v": "05902e34c3438b4430c9255fcf942cb0"
+                    },
+                    {
+                        "k": "1051",
+                        "v": "0e8625c9e5b128a12c708a0547b03eec"
+                    },
+                    {
+                        "k": "1052",
+                        "v": "7c9c5d0385361284252fef4ed50433d9"
+                    },
+                    {
+                        "k": "1053",
+                        "v": "780b954e6725b471ced13a9195889c9a"
+                    },
+                    {
+                        "k": "1054",
+                        "v": "b067dc389da3b21ca6e8941c58e74694"
+                    },
+                    {
+                        "k": "1056",
+                        "v": "1bb050e16d2d88add0e4d0597c37af10"
+                    },
+                    {
+                        "k": "1057",
+                        "v": "3eeb383110cc9d6abd6d1d2224fedc73"
+                    },
+                    {
+                        "k": "1058",
+                        "v": "445258de89ae54e8837bc5d67038a252"
+                    },
+                    {
+                        "k": "1060",
+                        "v": "9b938c295897c81daf79f027fbcbb796"
+                    },
+                    {
+                        "k": "1061",
+                        "v": "2e68b188996e5b1708eb017faa40fbb0"
+                    },
+                    {
+                        "k": "1062",
+                        "v": "8d9560fad32594866245c9a3e62fd0fa"
+                    },
+                    {
+                        "k": "1064",
+                        "v": "4c09b7bd28278c5e93a18642734ccfb9"
+                    },
+                    {
+                        "k": "1065",
+                        "v": "4ff047921e915c50b1882e210cd06afe"
+                    },
+                    {
+                        "k": "1066",
+                        "v": "7a05e127902a5a6f328a8df659c6e60a"
+                    },
+                    {
+                        "k": "1068",
+                        "v": "29ed708f469a47d74fb2476dd891a7bc"
+                    },
+                    {
+                        "k": "1069",
+                        "v": "23ed09b6fbcd68bc32079ad529e9c0f6"
+                    },
+                    {
+                        "k": "1070",
+                        "v": "fa50785134c0f9a6d6f1c57c85042281"
+                    },
+                    {
+                        "k": "1071",
+                        "v": "70cb533ca3d8346a11331af66efc894c"
+                    },
+                    {
+                        "k": "1072",
+                        "v": "b0a261685c5e6245c8ae22f27f4c903c"
+                    },
+                    {
+                        "k": "1073",
+                        "v": "f125e4c087a310b902c4fedc9e2b2890"
+                    },
+                    {
+                        "k": "1075",
+                        "v": "c8336e6d636a1399f7156c1bb3746bd7"
+                    },
+                    {
+                        "k": "1076",
+                        "v": "9fac0f9ab9b03da7c3d3fbd3c57a469c"
+                    },
+                    {
+                        "k": "1077",
+                        "v": "e511fecff30d5f77fe79fa8116a4d154"
+                    },
+                    {
+                        "k": "1080",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "1081",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "1082",
+                        "v": "19bad114d394c6f678324a58945e8f6e"
+                    },
+                    {
+                        "k": "1084",
+                        "v": "fa5b8a7bbb55d5213bd65b042370cabd"
+                    },
+                    {
+                        "k": "1085",
+                        "v": "bcc91db5bdef90b5eaa5d0eb552a9529"
+                    },
+                    {
+                        "k": "1086",
+                        "v": "b3cbcfdba9fcd95a979bf1fcc7711be3"
+                    },
+                    {
+                        "k": "1089",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "1090",
+                        "v": "375c0fa3fa8927b2775b9081fa1b7e09"
+                    },
+                    {
+                        "k": "1091",
+                        "v": "a43faa6cb0d8c1f9f2bc9e9420a9e8cb"
+                    },
+                    {
+                        "k": "1092",
+                        "v": "02e848e45c270a746f771a1bbf662ab8"
+                    },
+                    {
+                        "k": "1093",
+                        "v": "bd64afa5520372077cdbdcc8e31ae559"
+                    },
+                    {
+                        "k": "1094",
+                        "v": "93bb9990906a26d0ad4155c832b043d1"
+                    },
+                    {
+                        "k": "1095",
+                        "v": "a3bc135092cbb5c4715feafe1ffefa01"
+                    },
+                    {
+                        "k": "1096",
+                        "v": "0ad9154c14f8e5b663986fecca1eb2c4"
+                    },
+                    {
+                        "k": "1097",
+                        "v": "fae9b85c1403404674c59e2b43a46afa"
+                    },
+                    {
+                        "k": "1098",
+                        "v": "edfbbe4376c306b9197937529b7e305e"
+                    },
+                    {
+                        "k": "1099",
+                        "v": "b821edaf917f9f08cca4b8e3cc8dd53b"
+                    },
+                    {
+                        "k": "1100",
+                        "v": "5b972c6e35afc10dd8aeca767360af27"
+                    },
+                    {
+                        "k": "1101",
+                        "v": "9885c292a6223775d82ed062dafd7cdc"
+                    },
+                    {
+                        "k": "1102",
+                        "v": "05978fdacd59a7d639ff5aff4721fab1"
+                    },
+                    {
+                        "k": "1103",
+                        "v": "74fd48a6f5ab887c4fee470a0113b064"
+                    },
+                    {
+                        "k": "1104",
+                        "v": "fe51cf23f683ce06ef70a91cf6a35106"
+                    },
+                    {
+                        "k": "1105",
+                        "v": "b4361cdf13dbd1e9f019c5b1f8199509"
+                    },
+                    {
+                        "k": "1106",
+                        "v": "bfe683f1d92b9211ec1cd45fcd2eb484"
+                    },
+                    {
+                        "k": "1107",
+                        "v": "218d1d61e5d5be3fb3299527688feea6"
+                    },
+                    {
+                        "k": "1108",
+                        "v": "0564a30f834ee61ed81308ce11c59cb6"
+                    },
+                    {
+                        "k": "1109",
+                        "v": "58b927a71cd6e36b80b94178b14b161c"
+                    },
+                    {
+                        "k": "1110",
+                        "v": "9091ab428beaaf69b766f725ef5ac2c6"
+                    },
+                    {
+                        "k": "1111",
+                        "v": "7876427d9394950f38be8ab5a88a07bb"
+                    },
+                    {
+                        "k": "1113",
+                        "v": "cb48a96f636d572177c5178d4f555b58"
+                    },
+                    {
+                        "k": "1114",
+                        "v": "04ce8748eb5ac1bfb75ec15e967020a0"
+                    },
+                    {
+                        "k": "1115",
+                        "v": "7876427d9394950f38be8ab5a88a07bb"
+                    },
+                    {
+                        "k": "1116",
+                        "v": "04ce8748eb5ac1bfb75ec15e967020a0"
+                    },
+                    {
+                        "k": "1117",
+                        "v": "8a2e1caa02fec833c3aa6675fa1e07e4"
+                    },
+                    {
+                        "k": "1118",
+                        "v": "173a75cdf36b699fbd31eca392d816c9"
+                    },
+                    {
+                        "k": "1119",
+                        "v": "7a03b2e8b0111db7278846b989f98d43"
+                    },
+                    {
+                        "k": "1120",
+                        "v": "7282bfec44592d417fd9b91deccd8de8"
+                    },
+                    {
+                        "k": "1121",
+                        "v": "4dd1cb476a1ec9a8d8caf6606089468c"
+                    },
+                    {
+                        "k": "1122",
+                        "v": "8a4f05fda65b54e9f9e470037524ca8f"
+                    },
+                    {
+                        "k": "1123",
+                        "v": "53a4e0273e141eff1dd435e8bd0a93d7"
+                    },
+                    {
+                        "k": "1124",
+                        "v": "3b54155ea7c5733127fb6c69ebbd495b"
+                    },
+                    {
+                        "k": "1125",
+                        "v": "ec76db90e6328e1aafe4f2db71aebddc"
+                    },
+                    {
+                        "k": "1126",
+                        "v": "bc7cebf2871b83190bcb05c59ae11c23"
+                    },
+                    {
+                        "k": "1127",
+                        "v": "5272839d347859a4207198aa8fdf3f4f"
+                    },
+                    {
+                        "k": "27543",
+                        "v": "8a2e1caa02fec833c3aa6675fa1e07e4"
+                    },
+                    {
+                        "k": "27548",
+                        "v": "807698d711c95bc31446bd0902c1eb13"
+                    },
+                    {
+                        "k": "27549",
+                        "v": "6324ce6fda321423ac177943d23cf2a6"
+                    },
+                    {
+                        "k": "27551",
+                        "v": "81d9e0cf64be47b0b5fd932fcfc396bb"
+                    },
+                    {
+                        "k": "27554",
+                        "v": "8a9f68ae7850f5fb51e410e1ba099854"
+                    },
+                    {
+                        "k": "27555",
+                        "v": "668f9aa5291cb8afb3c34268378f4d63"
+                    },
+                    {
+                        "k": "27556",
+                        "v": "6e01ae1c69d1984a6ce651f0fef047ca"
+                    },
+                    {
+                        "k": "27557",
+                        "v": "bba2ae9bb99300300a516f03dc7ce5a2"
+                    },
+                    {
+                        "k": "27559",
+                        "v": "6a0456ed56ad876df5746a3339ee7661"
+                    },
+                    {
+                        "k": "27560",
+                        "v": "8b94e5522cee14627efcfd0f1f2e1234"
+                    },
+                    {
+                        "k": "27563",
+                        "v": "44d36b45fe03ed6fcdc807a8decec52d"
+                    },
+                    {
+                        "k": "27565",
+                        "v": "7aa597a7c53ed23192bba9961f3c7ff6"
+                    },
+                    {
+                        "k": "27566",
+                        "v": "4c02b670b5e7749034aea15b41d9a78f"
+                    },
+                    {
+                        "k": "27569",
+                        "v": "7e648130482809d4d0b37c87cba1bc87"
+                    },
+                    {
+                        "k": "27571",
+                        "v": "0be066338c4cb79114ea5dbd5401793c"
+                    },
+                    {
+                        "k": "27572",
+                        "v": "d5e6a0693c59fd4b1cccab43c16aca67"
+                    },
+                    {
+                        "k": "27575",
+                        "v": "9563a022be0a7e02ed6ff2e24c5a74c4"
+                    },
+                    {
+                        "k": "27577",
+                        "v": "c3bdc4d0c7612114b85e54e665b2c7a9"
+                    },
+                    {
+                        "k": "27578",
+                        "v": "f7bf3e2a464720b56a32ffd37e970553"
+                    },
+                    {
+                        "k": "27581",
+                        "v": "554052cfe92869c5a8b8a945c8b7ec7f"
+                    },
+                    {
+                        "k": "27583",
+                        "v": "55139a765f99399fc4922849d5fc0e38"
+                    },
+                    {
+                        "k": "27584",
+                        "v": "6193ebeec76d31fcd48d3501607fa2ee"
+                    },
+                    {
+                        "k": "27587",
+                        "v": "079da555d2fbca0658495e19989c9d8a"
+                    },
+                    {
+                        "k": "27588",
+                        "v": "f11ea3f89a6ab7d4b9ff3ae80449808e"
+                    },
+                    {
+                        "k": "27590",
+                        "v": "b60fd534b886f5c07b0fc76a696bb4f8"
+                    },
+                    {
+                        "k": "27591",
+                        "v": "b327711f6d2332dc8a2f28050deedf62"
+                    },
+                    {
+                        "k": "27594",
+                        "v": "5759c64ef705c0c77f9272a57db1199c"
+                    },
+                    {
+                        "k": "27596",
+                        "v": "bff55b585614ab53713417acf33b6f39"
+                    },
+                    {
+                        "k": "27597",
+                        "v": "c09b3aefc39ad01589ee7bde3ad0552f"
+                    },
+                    {
+                        "k": "27600",
+                        "v": "da1f8c122e69ef2d93c9a51299b85d42"
+                    },
+                    {
+                        "k": "27601",
+                        "v": "5ad23d16e3e78312f8a0cb4a41e5d3dd"
+                    },
+                    {
+                        "k": "27602",
+                        "v": "eec9d3cbc933b9007a2963173baceb06"
+                    },
+                    {
+                        "k": "27604",
+                        "v": "5ce07e70a3349b2867128b33cd01a109"
+                    },
+                    {
+                        "k": "27605",
+                        "v": "5a880f5033b341d226c03183f2edcee3"
+                    },
+                    {
+                        "k": "27608",
+                        "v": "0a62b21c729e8cdaf028486b73e87934"
+                    },
+                    {
+                        "k": "27609",
+                        "v": "aca0ea265e539f08a0e3bd7fac7204a8"
+                    },
+                    {
+                        "k": "27611",
+                        "v": "f973c8236eb4d1b3f6970a6a332ceee9"
+                    },
+                    {
+                        "k": "27612",
+                        "v": "5e636c91626117cad5c433438dcb62b5"
+                    },
+                    {
+                        "k": "27615",
+                        "v": "bf53eeb490ab52f8423b42a1a5a2a5f1"
+                    },
+                    {
+                        "k": "27616",
+                        "v": "14a87328d07331017f0079627d93f938"
+                    },
+                    {
+                        "k": "27618",
+                        "v": "15c68beb777dc3415350d4ab2278fa4c"
+                    },
+                    {
+                        "k": "27619",
+                        "v": "82f9eb2cbdc038a728055d43326a3549"
+                    },
+                    {
+                        "k": "27622",
+                        "v": "abe8ff48e48de0828bb53cf3f0f3ac3a"
+                    },
+                    {
+                        "k": "27624",
+                        "v": "6c97a7ed1da7d3fbe0ef0bbc49e3157b"
+                    },
+                    {
+                        "k": "27625",
+                        "v": "4b576810c8ef07117f5d689aa0c19763"
+                    },
+                    {
+                        "k": "27628",
+                        "v": "959cb6a042507d5dec9af8369d8b6b89"
+                    },
+                    {
+                        "k": "27630",
+                        "v": "5715fc161f263f36ec1aa020a03bbb68"
+                    },
+                    {
+                        "k": "27631",
+                        "v": "ef0b22ed8b90cd73a505c0a06978c8c0"
+                    },
+                    {
+                        "k": "27632",
+                        "v": "87988ee64f0652aeecce9b833445c484"
+                    },
+                    {
+                        "k": "27635",
+                        "v": "1fc7e93651f24a21f5256f11c152b8c0"
+                    },
+                    {
+                        "k": "27637",
+                        "v": "7a8dccbb81ba205fff36f53d8494e4c3"
+                    },
+                    {
+                        "k": "27639",
+                        "v": "4157aadc3da95a7de053a1d749f725f9"
+                    },
+                    {
+                        "k": "27640",
+                        "v": "3fc8e09b78c96cb218bd6d3ddd51159b"
+                    },
+                    {
+                        "k": "27641",
+                        "v": "ff7fe022a9d8075310526193d04306b7"
+                    },
+                    {
+                        "k": "27646",
+                        "v": "9336eb073bfd76f6c918e70ae218aba5"
+                    },
+                    {
+                        "k": "27648",
+                        "v": "ddb7981e99c166b62c51a90fa1e07bbd"
+                    },
+                    {
+                        "k": "27650",
+                        "v": "d2ca7cc5c9f8a5e05ee2edf9097b649a"
+                    },
+                    {
+                        "k": "27653",
+                        "v": "138dc0e3c7c95ddc20f82cb0c606bd5b"
+                    },
+                    {
+                        "k": "27655",
+                        "v": "2f2eaa02b922641a98d1aac2fbdcefd4"
+                    },
+                    {
+                        "k": "27656",
+                        "v": "9ec9e43d112258b42e3f8f52c49ad0c8"
+                    },
+                    {
+                        "k": "27659",
+                        "v": "aeca5027d0597e3067992612781d0637"
+                    },
+                    {
+                        "k": "27660",
+                        "v": "69a8f89adf7a92fde28981a02398e2ef"
+                    },
+                    {
+                        "k": "27662",
+                        "v": "15e729835b956a5f19a7bf620b175643"
+                    },
+                    {
+                        "k": "27663",
+                        "v": "cf6f984985d5e7f9a27cb78a73352c87"
+                    },
+                    {
+                        "k": "27666",
+                        "v": "27cd4ac1c0215a58e9307a65c4dabece"
+                    },
+                    {
+                        "k": "27667",
+                        "v": "1e3c1cd12a130a82b25693cfbec7ef04"
+                    },
+                    {
+                        "k": "27669",
+                        "v": "876e02ea262106448edcf34870c519c9"
+                    },
+                    {
+                        "k": "27670",
+                        "v": "f7470cafb28c7a5006791cb1a07cc8b9"
+                    },
+                    {
+                        "k": "27673",
+                        "v": "71dea0de3d25ff90c52a5c60587b3730"
+                    },
+                    {
+                        "k": "27674",
+                        "v": "0bf0d01e94ec526acae4885a533220b2"
+                    },
+                    {
+                        "k": "27676",
+                        "v": "80d5fd588102fd715bf979cb89f1fb85"
+                    },
+                    {
+                        "k": "27677",
+                        "v": "ca75099ad8fefe98845ba8cc2bcebb9c"
+                    },
+                    {
+                        "k": "27680",
+                        "v": "7c76b43e8085a7c1aff26c7742dc5442"
+                    },
+                    {
+                        "k": "27682",
+                        "v": "3ae8c8e6d4d2068828983bd97134a074"
+                    },
+                    {
+                        "k": "27683",
+                        "v": "61a02304609791db3909660ae1914d6f"
+                    },
+                    {
+                        "k": "27686",
+                        "v": "12f5eb5bf84f10b205d8815dea0540ba"
+                    },
+                    {
+                        "k": "27687",
+                        "v": "b23160a7a40f0709cc50426ca2a5384d"
+                    },
+                    {
+                        "k": "27689",
+                        "v": "b8add5857502c4bd8803a35efa950c3a"
+                    },
+                    {
+                        "k": "27690",
+                        "v": "c15c8e9e5e9806c57338f5eaacd2b814"
+                    },
+                    {
+                        "k": "27693",
+                        "v": "422b49145b164036d416a9fe5a19a346"
+                    },
+                    {
+                        "k": "27694",
+                        "v": "31e25849ac974f6a911e9f2de7e3b61d"
+                    },
+                    {
+                        "k": "27696",
+                        "v": "2d1521e77f6e4f9e42cc30f9d01be2e6"
+                    },
+                    {
+                        "k": "27697",
+                        "v": "1dbf2b84e88e4085185c2cda0a76f0d6"
+                    },
+                    {
+                        "k": "27700",
+                        "v": "46061caa4c6d17c2db69c7a8208cdc46"
+                    },
+                    {
+                        "k": "27702",
+                        "v": "e4918b2abbbf2ca9fc309e5f2e352972"
+                    },
+                    {
+                        "k": "27703",
+                        "v": "782b1b73c3d711ca48fb04644806b697"
+                    },
+                    {
+                        "k": "27706",
+                        "v": "8aa064a95e409702269140fd209d9000"
+                    },
+                    {
+                        "k": "27708",
+                        "v": "9c72417f1827bf9d5af748a3afa9ea0b"
+                    },
+                    {
+                        "k": "27709",
+                        "v": "88a9696cfc335d174db490c02528cf51"
+                    },
+                    {
+                        "k": "27712",
+                        "v": "9ec8deb8dfa334567a99a9c3e8b9972a"
+                    },
+                    {
+                        "k": "27714",
+                        "v": "a6932c3eedf6ec5cf7b7394a9da870e6"
+                    },
+                    {
+                        "k": "27715",
+                        "v": "379aef984ec74d81ad2cfa3d7db0aec8"
+                    },
+                    {
+                        "k": "27718",
+                        "v": "86898bc3e601aa5d0ee0f0e3ff290d31"
+                    },
+                    {
+                        "k": "27720",
+                        "v": "524cd76675023424ccf0d092bf429543"
+                    },
+                    {
+                        "k": "27721",
+                        "v": "7235cbc2e627fdddf704cbe773882652"
+                    },
+                    {
+                        "k": "27724",
+                        "v": "17a38736e9bd485adb12e3456833b318"
+                    },
+                    {
+                        "k": "27726",
+                        "v": "30b8ba1a18a9d624dcb092a08da3ad62"
+                    },
+                    {
+                        "k": "27727",
+                        "v": "b0e0fd25ba7700a1e15d0d4f51b9134d"
+                    },
+                    {
+                        "k": "27730",
+                        "v": "a503338a65606319c972fd53ad49ad21"
+                    },
+                    {
+                        "k": "27731",
+                        "v": "e5d3dbfa3c30633aa9839992133ad1bb"
+                    },
+                    {
+                        "k": "27733",
+                        "v": "468920c6a3777336e0ae46d4c5ac081a"
+                    },
+                    {
+                        "k": "27734",
+                        "v": "29ccd77b5a65e4f3bf1db8d6e3dba02b"
+                    },
+                    {
+                        "k": "27737",
+                        "v": "005d3b592f485b92aed3c1cbf8070f1d"
+                    },
+                    {
+                        "k": "27739",
+                        "v": "d32eb10348bda99329d92eb9ffa13c85"
+                    },
+                    {
+                        "k": "27740",
+                        "v": "6407be7367ea2c4fdd5e5c93004180ae"
+                    },
+                    {
+                        "k": "27743",
+                        "v": "a22e473c8d001b30ece0f9d8b05e2a73"
+                    },
+                    {
+                        "k": "27745",
+                        "v": "8899fae7b28a162131f1f0df5bcc6aff"
+                    },
+                    {
+                        "k": "27746",
+                        "v": "3e76eb5901cf18fe8182ad12dfd3bc68"
+                    },
+                    {
+                        "k": "27749",
+                        "v": "1418aaa6127f3d7e18b30c3834114658"
+                    },
+                    {
+                        "k": "27751",
+                        "v": "3565311ed0336bd441c0d51f86130553"
+                    },
+                    {
+                        "k": "27752",
+                        "v": "9e27b96883988a9f90041efb04898b4c"
+                    },
+                    {
+                        "k": "27755",
+                        "v": "5727b546242fc1481f260afca88ba85c"
+                    },
+                    {
+                        "k": "27757",
+                        "v": "9fc2613fcdb099cb2f08fc3e13a3d0b2"
+                    },
+                    {
+                        "k": "27760",
+                        "v": "23f721f44fdc6ff168a9fbe34b6cc19f"
+                    },
+                    {
+                        "k": "27762",
+                        "v": "7b3e2f231f95c2e0a6a36994a3b1a345"
+                    },
+                    {
+                        "k": "27763",
+                        "v": "a03388d6f0dc2b482a0ed73411bfe4ca"
+                    },
+                    {
+                        "k": "27764",
+                        "v": "08ef64fbb38166dd1c4aea4022426095"
+                    },
+                    {
+                        "k": "27767",
+                        "v": "ac3d23b948decbeef3196e7e587f03a1"
+                    },
+                    {
+                        "k": "27768",
+                        "v": "5c885ddde19a93e0bf295283bffe2abb"
+                    },
+                    {
+                        "k": "27770",
+                        "v": "8dd311538138ffb3a81f0036f81ec05f"
+                    },
+                    {
+                        "k": "27771",
+                        "v": "6effe3b50d11082ee03eba3ed7d07338"
+                    },
+                    {
+                        "k": "27772",
+                        "v": "ddf8b516642573f521ed978f82b604e4"
+                    },
+                    {
+                        "k": "27773",
+                        "v": "7712f92c9c4b5548d729fe1b5296216d"
+                    },
+                    {
+                        "k": "27774",
+                        "v": "54a4e0f5e09321328204b229d75dfbe0"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-02-15T12:12:38",
+                        "name": "Public",
+                        "hash": "3a7b34a0db2d3d28c753d6b9753a4d69",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-15T12:12:38",
+                                "name": "Textures",
+                                "hash": "de4c206adb301a986dcdc8b330cbcbfc",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-07T16:30:58",
+                                        "name": "cut.gif",
+                                        "hash": "53a4e0273e141eff1dd435e8bd0a93d7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-02-04T15:56:52",
+                                        "name": "Render Targets",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-14T17:01:47",
+                                        "name": "headwrap.png",
+                                        "hash": "bc7cebf2871b83190bcb05c59ae11c23",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-14T18:05:23",
+                                        "name": "ice.png",
+                                        "hash": "7712f92c9c4b5548d729fe1b5296216d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-11T15:42:22",
+                                        "name": "bruise.png",
+                                        "hash": "8a4f05fda65b54e9f9e470037524ca8f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-11T15:36:57",
+                                        "name": "forehead_bruise.png",
+                                        "hash": "3b54155ea7c5733127fb6c69ebbd495b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-11T16:04:44",
+                                        "name": "bandaid.png",
+                                        "hash": "ec76db90e6328e1aafe4f2db71aebddc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-04T15:56:52",
+                                "name": "Tween",
+                                "hash": "94675b2f9624b302399561be0a3e5f6f",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-02-04T15:56:52",
+                                        "name": "TweenTypes",
+                                        "hash": "e1ae7ba5665a5fd91f1c452016f47d7e",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "TweenChain.js",
+                                                "hash": "cc0c83e2ea93b997db621a08e4b6f785",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "TweenColor.js",
+                                                "hash": "e9e2ba6730d762b98ec75bee60c2280c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "TweenTransform.js",
+                                                "hash": "6ebfeb2c663fa202006e693171b85b2b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-02-04T15:56:52",
+                                                "name": "Legacy",
+                                                "hash": "633ec9f18494495c1cb1cc3afc0dd9c7",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-02-02T11:32:25",
+                                                        "name": "TweenBillboard [DEPRECATED].js",
+                                                        "hash": "758e79bc3b690f8d485a6fe41a406c73",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-02-02T11:32:25",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "TweenScreenTransform.js",
+                                                "hash": "b850f8e90210b09d8dc4028f3cba389b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "TweenValue.js",
+                                                "hash": "5442d81c364e19a9bb1bf0b0b452cc05",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "TweenAlpha.js",
+                                                "hash": "727c7e4c704f936aea788aa6fceeb329",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "TweenManager.js",
+                                        "hash": "2f5b03e0cb4ffddd330286e7a9c8117f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "Tween.js",
+                                        "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-15T12:13:01",
+                                "name": "Materials",
+                                "hash": "b496ea23f8eb8e30d240722eb512fb5a",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-02-15T12:13:01",
+                                        "name": "Mipmaps Enabled Materials",
+                                        "hash": "06ded4ccd541067181f4a9189564a8f2",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-15T12:13:01",
+                                                "name": "heart_tattoo_material.lsmat",
+                                                "hash": "cabb1b9ca688f10ed6aa199c28fd1622",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-15T12:13:01",
+                                                "name": "star_left_tattoo_material.lsmat",
+                                                "hash": "e0fcf95bf3274b4b0f7f9190b88e3cd7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-15T12:13:01",
+                                                "name": "platonic_face_material.lsmat",
+                                                "hash": "e5242e5ddf81645c3a2657b02006f479",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-15T12:13:01",
+                                                "name": "star_right_tattoo_material.lsmat",
+                                                "hash": "63d8de57cc81e8f596218cc33e02e6d8",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-15T12:13:01",
+                                                "name": "kitty_right_tattoo_material.lsmat",
+                                                "hash": "c579f4aea37739ab145cda35b1df9f98",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-15T12:13:01",
+                                                "name": "face_mesh_material.lsmat",
+                                                "hash": "e6a59f91015f62dc6c8585fdbd01c917",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-15T12:13:01",
+                                                "name": "kitty_left_tattoo_material.lsmat",
+                                                "hash": "99a5cf5d0f8813a77438c0d14d62166e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-15T12:13:01",
+                                                "name": "platonic_material.lsmat",
+                                                "hash": "07ac642d932ad45d3a1f00ced72f2e38",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-15T12:13:01",
+                                                "name": "cloud_rainbow_tattoo_material.lsmat",
+                                                "hash": "06a660a498a97642ace79346ac66b1b7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-15T12:13:01",
+                                                "name": "diamond_tattoo_material.lsmat",
+                                                "hash": "ba2227e8a87bebf9120c14d59022bbba",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-02-04T15:56:52",
+                                        "name": "Segmentation Materials",
+                                        "hash": "91a5a7e3b75734b9a2d51c949d9f2e7a",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "portrait_skin_segmentation_material.lsmat",
+                                                "hash": "8c0f4f66669866c1f442d1528fc6dd0c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-02T11:32:25",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-15T12:13:01",
+                                        "name": "material_to_use [COPY_ME].lsmat",
+                                        "hash": "810e252741a2143b68756b93cff86a40",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-04T15:56:52",
+                                "name": "Tracking Asset",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-04T15:56:52",
+                                "name": "Meshes",
+                                "hash": "9232dc9389b5a43bbc91bd5236bd3ab8",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "platonic.fbx",
+                                        "hash": "0ad9154c14f8e5b663986fecca1eb2c4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-14T18:18:28",
+                                "name": "booboo.mp3",
+                                "hash": "54a4e0f5e09321328204b229d75dfbe0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-14T13:12:48",
+                                "name": "Scripts",
+                                "hash": "34c203485f24a225df1abe5e53eeed2d",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "EnableAlphaRecursively.js",
+                                        "hash": "7a03b2e8b0111db7278846b989f98d43",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "MakeCameraChildrenVisible.js",
+                                        "hash": "173a75cdf36b699fbd31eca392d816c9",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "Behavior.js",
+                                        "hash": "8a2e1caa02fec833c3aa6675fa1e07e4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "MatchEnabledDebug.js",
+                                        "hash": "7282bfec44592d417fd9b91deccd8de8",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-14T13:11:52",
+                                        "name": "WoundToggle.js",
+                                        "hash": "8a2e1caa02fec833c3aa6675fa1e07e4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-02T11:32:25",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-04T15:56:52",
+                                "name": "Fonts",
+                                "hash": "2fd792efd3e4736c9368bf86e579dcb1",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "Pacifico-Regular.ttf",
+                                        "hash": "9b94499ccea3bd82b24cb210733c4b5e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-02T11:32:25",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-02T11:32:25",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "145",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tracking Asset",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Body Tracking Asset",
+                                "type": "24",
+                                "subtype": "0",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628196835088425:16015",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "969",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Segmentation Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "970",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "portrait_skin_segmentation_material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628196834875096:15921",
+                                        "fileId": "9",
+                                        "originalId": "10",
+                                        "publicId": "971",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mipmaps Enabled Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1112",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "face_mesh_material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628196835289137:16275",
+                                        "fileId": "13",
+                                        "originalId": "14",
+                                        "publicId": "976",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "heart_tattoo_material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628196835743975:16325",
+                                        "fileId": "18",
+                                        "originalId": "19",
+                                        "publicId": "978",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "kitty_left_tattoo_material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "28",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628196836822821:16469",
+                                        "fileId": "37",
+                                        "originalId": "38",
+                                        "publicId": "985",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "diamond_tattoo_material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628196837050983:16501",
+                                        "fileId": "39",
+                                        "originalId": "40",
+                                        "publicId": "986",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "kitty_right_tattoo_material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628196837526521:16565",
+                                        "fileId": "43",
+                                        "originalId": "44",
+                                        "publicId": "988",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "platonic_material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "120",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628288234818048:27620",
+                                        "fileId": "188",
+                                        "originalId": "189",
+                                        "publicId": "1097",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "platonic_face_material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "127",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628545163274648:260959",
+                                        "fileId": "208",
+                                        "originalId": "209",
+                                        "publicId": "1103",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "star_left_tattoo_material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "134",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628875757298819:48631",
+                                        "fileId": "240",
+                                        "originalId": "241",
+                                        "publicId": "1109",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "star_right_tattoo_material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "135",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628875895036035:79518",
+                                        "fileId": "242",
+                                        "originalId": "243",
+                                        "publicId": "1110",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "cloud_rainbow_tattoo_material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "144",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629912217312842:12426",
+                                        "fileId": "258",
+                                        "originalId": "259",
+                                        "publicId": "1121",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "material_to_use [COPY_ME]",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "137",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628876685746509:159657",
+                                "fileId": "245",
+                                "originalId": "246",
+                                "publicId": "1113",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "972",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Targets",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "990",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "render_target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1:1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "resourceInfoExportKey": {
+                                                "RenderTargetRole": "1"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "face_mesh_render_target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "33",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628197927922637:120661",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "bruise",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "146",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1644280750324932:34543",
+                                "fileId": "261",
+                                "originalId": "262",
+                                "publicId": "1122",
+                                "source": "\/Users\/mmiranda\/Desktop\/Mockups\/booboo\/bruise.png",
+                                "additional": {
+                                    "originHash": "8a4f05fda65b54e9f9e470037524ca8f"
+                                }
+                            },
+                            {
+                                "name": "cut",
+                                "type": "1",
+                                "subtype": "5",
+                                "resourceId": "147",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1644280754200888:37669",
+                                "fileId": "264",
+                                "originalId": "265",
+                                "publicId": "1123",
+                                "source": "\/Users\/mmiranda\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiogbSymjSoltnX\/animation.t3d",
+                                "additional": ""
+                            },
+                            {
+                                "name": "forehead_bruise",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "148",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1644606699559936:68999",
+                                "fileId": "271",
+                                "originalId": "272",
+                                "publicId": "1124",
+                                "source": "\/Users\/mmiranda\/Desktop\/Mockups\/booboo\/forehead_bruise.png",
+                                "additional": {
+                                    "originHash": "3b54155ea7c5733127fb6c69ebbd495b"
+                                }
+                            },
+                            {
+                                "name": "bandaid",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "149",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1644624743777685:941476",
+                                "fileId": "287",
+                                "originalId": "288",
+                                "publicId": "1125",
+                                "source": "\/Users\/mmiranda\/Desktop\/Mockups\/booboo\/bandaid.png",
+                                "additional": {
+                                    "originHash": "ec76db90e6328e1aafe4f2db71aebddc"
+                                }
+                            },
+                            {
+                                "name": "headwrap",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "150",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1644624743932408:941505",
+                                "fileId": "290",
+                                "originalId": "291",
+                                "publicId": "1126",
+                                "source": "\/Users\/mmiranda\/Desktop\/Mockups\/booboo\/headwrap.png",
+                                "additional": {
+                                    "originHash": "bc7cebf2871b83190bcb05c59ae11c23"
+                                }
+                            },
+                            {
+                                "name": "ice",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "274",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1644887817748815:1383932",
+                                "fileId": "614",
+                                "originalId": "615",
+                                "publicId": "27773",
+                                "source": "\/Users\/mmiranda\/Desktop\/Mockups\/booboo\/ice.png",
+                                "additional": {
+                                    "originHash": "7712f92c9c4b5548d729fe1b5296216d"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "975",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Face Mesh",
+                                "type": "3",
+                                "subtype": "2",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628196835283606:16265",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "platonic",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "186",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1096",
+                                "source": "",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Platonic",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "118",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1628288177493742:18198",
+                                                "fileId": "183",
+                                                "originalId": "184",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "platonic",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "119",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1628288177834945:18283",
+                                        "fileId": "185",
+                                        "originalId": "187",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fonts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "992",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Pacifico-Regular",
+                                "type": "13",
+                                "subtype": "0",
+                                "resourceId": "41",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628199039813801:250842",
+                                "fileId": "60",
+                                "originalId": "18446744073709551615",
+                                "publicId": "999",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1000",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Behavior",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "140",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628877488423087:303131",
+                                "fileId": "254",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1117",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "MakeCameraChildrenVisible",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "141",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628885264171583:30567",
+                                "fileId": "255",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1118",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "EnableAlphaRecursively",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "142",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628885578759780:74796",
+                                "fileId": "256",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1119",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "MatchEnabledDebug",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "143",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628886742761940:309239",
+                                "fileId": "257",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1120",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "WoundToggle",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "152",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1644873155589793:92171",
+                                "fileId": "299",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27543",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tween",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1006",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "TweenTypes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1007",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "47",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628204975617706:75653",
+                                        "fileId": "81",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1008",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenValue",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "48",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628204975661633:75669",
+                                        "fileId": "82",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1009",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "49",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628204975684105:75681",
+                                        "fileId": "83",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1010",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "50",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628204975758619:75697",
+                                        "fileId": "84",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1011",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Legacy",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1012",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenBillboard [DEPRECATED]",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "51",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628204975837327:75713",
+                                                "fileId": "85",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1013",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "TweenChain",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "52",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628204975966393:75733",
+                                        "fileId": "86",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1014",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenScreenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "53",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628204976037184:75745",
+                                        "fileId": "87",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1015",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tween",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "54",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628204976147531:75761",
+                                "fileId": "88",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1016",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenManager",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "55",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628204976238657:75777",
+                                "fileId": "89",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1017",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Portrait Skin Segmentation [EDIT_ME]",
+                        "type": "1",
+                        "subtype": "14",
+                        "resourceId": "32",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1628197058433572:43593",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "booboo",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "275",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1644891516011921:2171801",
+                        "fileId": "620",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27774",
+                        "source": "\/Users\/mmiranda\/Downloads\/booboo.mp3",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1644280750324932:34543",
+                        "path_list": [
+                            "bruise"
+                        ]
+                    },
+                    {
+                        "uid": "1644280754200888:37669",
+                        "path_list": [
+                            "cut"
+                        ]
+                    },
+                    {
+                        "uid": "1644606699559936:68999",
+                        "path_list": [
+                            "forehead_bruise"
+                        ]
+                    },
+                    {
+                        "uid": "1644624743777685:941476",
+                        "path_list": [
+                            "bandaid"
+                        ]
+                    },
+                    {
+                        "uid": "1644624743932408:941505",
+                        "path_list": [
+                            "headwrap"
+                        ]
+                    },
+                    {
+                        "uid": "1644887817748815:1383932",
+                        "path_list": [
+                            "ice"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1628288177834945:18283",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1628288177506720:18208"
+                        },
+                        {
+                            "k": [
+                                "Platonic"
+                            ],
+                            "v": "1628288177509901:18210"
+                        },
+                        {
+                            "k": [
+                                "Platonic",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1628288177510305:18212"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1628288177493742:18198",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1254",
+                            "compressedSize": "1254",
+                            "originalRAM": "3000",
+                            "compressedRAM": "3000",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "260",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644280750324932:34543",
+                    "v": {
+                        "infos": {
+                            "originalSize": "785166",
+                            "compressedSize": "584775",
+                            "originalRAM": "7680000",
+                            "compressedRAM": "960000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "285",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "8a4f05fda65b54e9f9e470037524ca8f",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "286"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1644280754200888:37669",
+                    "v": {
+                        "infos": {
+                            "originalSize": "100394",
+                            "compressedSize": "49000",
+                            "originalRAM": "9207808",
+                            "compressedRAM": "1150976",
+                            "extension": "t3d",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "266",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "caa2e65c481aeeb157e0808d678bfad6",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "267"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1644606699559936:68999",
+                    "v": {
+                        "infos": {
+                            "originalSize": "432519",
+                            "compressedSize": "326676",
+                            "originalRAM": "7680000",
+                            "compressedRAM": "960000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "281",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3b54155ea7c5733127fb6c69ebbd495b",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "282"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1644624743777685:941476",
+                    "v": {
+                        "infos": {
+                            "originalSize": "29934",
+                            "compressedSize": "20184",
+                            "originalRAM": "5120000",
+                            "compressedRAM": "640000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "289",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "ec76db90e6328e1aafe4f2db71aebddc",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "298"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1644624743932408:941505",
+                    "v": {
+                        "infos": {
+                            "originalSize": "68802",
+                            "compressedSize": "39134",
+                            "originalRAM": "6400000",
+                            "compressedRAM": "800000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "304",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "bc7cebf2871b83190bcb05c59ae11c23",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "305"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1644887817748815:1383932",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2341041",
+                            "compressedSize": "545526",
+                            "originalRAM": "7680000",
+                            "compressedRAM": "960000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "618",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "7712f92c9c4b5548d729fe1b5296216d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "619"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1644887485178684:1329852",
+                    "v": "2g8X3zPNGbCAO1cBz6rGqH"
+                },
+                {
+                    "k": "1644887503592392:1337260",
+                    "v": "1aCCUUIrgy0ELyIIgW7XQu"
+                }
+            ]
+        }
+    },
+    "templateName": "Portrait Skin Segmentation",
+    "templateUrl": "https:\/\/downloads.ctfassets.net\/xyb83mibqg29\/1tIv01TgoWBglRTzIRNQ4W\/fd4e46844e1c1a55d7e1f24604309b94\/Portrait_Skin_Segmentation.zip"
+}
